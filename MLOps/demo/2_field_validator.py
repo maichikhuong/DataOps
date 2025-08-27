@@ -26,13 +26,21 @@ class Patient(BaseModel):
     @classmethod
     def transform_name(cls, value):
         return value.upper()
+    
+    @field_validator('age', mode='after')
+    @classmethod
+    def validate_age(cls, value):
+        if 0 < value < 100:
+            return value 
+        else:
+            raise ValueError("Age should be in between 0 and 100")
 
 def insert_data(patient: Patient):
     print(patient)
     print('Insert data successfully!')
 
 # insert_data('Khuong', '28')
-patient_info = {'name': 'Khuong', 'age':27, 'email': 'khuong@icici.com', 'link_url': 'https://www.linkedin.com/in/khuong-mai-chi-4b917b1bb/'
+patient_info = {'name': 'Khuong', 'age': '27', 'email': 'khuong@icici.com', 'link_url': 'https://www.linkedin.com/in/khuong-mai-chi-4b917b1bb/'
                 , 'weight': 80, 'married': True, 'contact_details': {'email': 'abc@gmail.com', 'phone': '123456'}}
 
 patient1 = Patient(**patient_info) #validation -> type coercion
