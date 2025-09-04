@@ -11,7 +11,6 @@ from schema.user_input import UserInput
 from schema.prediction_response import PredictionResponse
 # import prediction
 from ml_flow.predict import model, MODEL_VERSION, prediction_output
-
 app = FastAPI()
 
 
