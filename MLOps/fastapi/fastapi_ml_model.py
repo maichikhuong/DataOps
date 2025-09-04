@@ -1,3 +1,5 @@
+import warnings
+warnings.filterwarnings('ignore')
 import json
 import pickle
 import pandas as pd
