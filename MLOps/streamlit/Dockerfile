@@ -2,7 +2,7 @@
 FROM python:3.11-slim
 
 # Set working directory
-WORKDIR /fastapi
+WORKDIR /streamlit
 
 # Copy requirements and install dependencies
 COPY requirements.txt .
@@ -12,7 +12,7 @@ RUN pip install --no-cache-dir -r requirements.txt
 COPY . .
 
 # Expose the application port
-EXPOSE 8000
+EXPOSE 8501
 
-# Command to start FastAPI application
-CMD ["uvicorn", "fastapi_ml_model:app", "--host", "0.0.0.0", "--port", "8000"]
+# Command to start Streamlit application
+CMD ["streamlit", "run", "streamlit_mlmodel.py", "--server.port=8501", "--server.enableCORS=false"]

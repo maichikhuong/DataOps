@@ -1,7 +1,7 @@
 import streamlit as st 
 import requests
 
-API_URL = 'http://localhost:8000/predict'
+API_URL = 'http://fastapi_demo:8000/predict'
 
 st.title("Insurance Premium Category Predictor")
 st.markdown("Enter your details below:")
@@ -33,7 +33,7 @@ if st.button("Predict Premium Category"):
         response = requests.post(API_URL, json = input_data)
         if response.status_code == 200:
             result = response.json()
-            st.success(f"Predicted Insurance Premium Category: **{result['predictied_category']}**")
+            st.success(f"Predicted Insurance Premium Category: **{result['response']}**")
         else:
             st.error(f"API Error: {response.status_code} - {response.text}")
     except requests.exceptions.ConnectionError:
