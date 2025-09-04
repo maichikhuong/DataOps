@@ -2,7 +2,7 @@ version: '3.8'
 
 services:
   fastapi_demo:
-    build: ./fastapi
+    # build: ./fastapi
     image: khuongmc/fastapi-app-demo:latest
     container_name: fastapi_service_demo
     ports:
@@ -11,7 +11,7 @@ services:
       - mlops-net
 
   streamlit_demo:
-    build: ./streamlit
+    # build: ./streamlit
     image: khuongmc/streamlit-app-demo:latest
     container_name: streamlit_service_demo
     ports:
