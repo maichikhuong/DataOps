@@ -1,0 +1,26 @@
+version: '3.8'
+
+services:
+  fastapi_demo:
+    build: ./fastapi
+    image: khuongmc/fastapi-app-demo:latest
+    container_name: fastapi_service_demo
+    ports:
+      - "8000:8000"
+    networks:
+      - mlops-net
+
+  streamlit_demo:
+    build: ./streamlit
+    image: khuongmc/streamlit-app-demo:latest
+    container_name: streamlit_service_demo
+    ports:
+      - "8501:8501"
+    depends_on:
+      - fastapi_demo
+    networks:
+      - mlops-net
+
+networks:
+  mlops-net:
+    driver: bridge
