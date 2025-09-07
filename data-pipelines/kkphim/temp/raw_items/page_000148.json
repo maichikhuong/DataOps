@@ -1,0 +1,131 @@
+{
+    "status": true,
+    "items": [
+        {
+            "modified": {
+                "time": "2024-11-01T05:53:57.000Z"
+            },
+            "_id": "a4d93371a3aecc3e693cd34443bfdbda",
+            "name": "Qu\u00e1n R\u01b0\u1ee3u R\u1ef1c T\u00ecnh",
+            "slug": "quan-ruou-ruc-tinh",
+            "origin_name": "Cabaret Desire",
+            "poster_url": "https://phimimg.com/upload/vod/20241101-1/c0550a4a86dc6538087a489d3a268f19.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20241101-1/1511a0958ed6ec252c7513d44b5e68a7.jpg",
+            "year": 2011
+        },
+        {
+            "modified": {
+                "time": "2024-11-01T05:50:51.000Z"
+            },
+            "_id": "618d8cb4eae98f783b4285e692e91d38",
+            "name": "Danh S\u00e1ch T\u1eed Th\u1ea7n",
+            "slug": "danh-sach-tu-than",
+            "origin_name": "Hunting List",
+            "poster_url": "https://phimimg.com/upload/vod/20241101-1/80b3ea983ded1c86df6b6aae42a3b3b6.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20241101-1/c90add9ff86a98e64bd7aa66b12ca073.jpg",
+            "year": 1994
+        },
+        {
+            "modified": {
+                "time": "2024-11-01T05:43:47.000Z"
+            },
+            "_id": "1dba5eed8838571e1c80af145184e515",
+            "name": "\u0110\u00eam Tr\u01b0\u1edbc \u1ede Soho",
+            "slug": "dem-truoc-o-soho",
+            "origin_name": "Last Night in Soho",
+            "poster_url": "https://phimimg.com/upload/vod/20241101-1/9d87d947bc70996088236474337c1586.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20241101-1/bbf7341bfba8944063bc22cdcca63f4e.jpg",
+            "year": 2021
+        },
+        {
+            "modified": {
+                "time": "2024-11-01T05:31:04.000Z"
+            },
+            "_id": "d6556bf1972f9b8cfbb909d1885c8b37",
+            "name": "N\u0103m Gi\u00e1c Quan C\u1ee7a Th\u1ea7n T\u00ecnh \u00c1i",
+            "slug": "nam-giac-quan-cua-than-tinh-ai",
+            "origin_name": "Five Senses of Eros",
+            "poster_url": "https://phimimg.com/upload/vod/20241101-1/383e0afb388fb65246c9583a4ac04833.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20241101-1/f6f5cb47267e928aa66c7261211117e6.jpg",
+            "year": 2009
+        },
+        {
+            "modified": {
+                "time": "2024-11-01T05:30:54.000Z"
+            },
+            "_id": "82aafca3e03771835c2e1acb19fde2d4",
+            "name": "Th\u00e2n G\u00e1i X\u1ee9 Ng\u01b0\u1eddi",
+            "slug": "than-gai-xu-nguoi",
+            "origin_name": "Japino",
+            "poster_url": "https://phimimg.com/upload/vod/20241101-1/a173fb439735fa14d1883fca41b412ea.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20241101-1/abfc87ae632ad3bac149460af5073b9e.jpg",
+            "year": 2023
+        },
+        {
+            "modified": {
+                "time": "2024-11-01T05:30:44.000Z"
+            },
+            "_id": "2fae3af07a8228d1d41c509494c4b461",
+            "name": "Ng\u01b0\u1eddi M\u1eabu Kho\u1ea3 Th\u00e2n",
+            "slug": "nguoi-mau-khoa-than",
+            "origin_name": "Halinghing",
+            "poster_url": "https://phimimg.com/upload/vod/20241101-1/7064f012615fe9d37874e7647c411943.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20241101-1/a866ce202b2e50d2b63d6e8836cbdcd0.jpg",
+            "year": 2024
+        },
+        {
+            "modified": {
+                "time": "2024-11-01T05:30:33.000Z"
+            },
+            "_id": "7d3c93b7a874ca3a2fd63f325225b26b",
+            "name": "Cu\u1ed9c T\u00ecnh Lu\u00e2n Phi\u00ean",
+            "slug": "cuoc-tinh-luan-phien",
+            "origin_name": "Palipat-lipat, Papalit-palit",
+            "poster_url": "https://phimimg.com/upload/vod/20241101-1/98e233dc4672325c2bb0d6109678000a.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20241101-1/18992778850fe007dc1a792d5f42b350.jpg",
+            "year": 2024
+        },
+        {
+            "modified": {
+                "time": "2024-11-01T05:30:22.000Z"
+            },
+            "_id": "5e1e1ad0d8c3c391a6a591b45b23e185",
+            "name": "M\u1ef9 Nh\u00e2n Th\u00e2m K\u1ebf",
+            "slug": "my-nhan-tham-ke",
+            "origin_name": "Red Flag",
+            "poster_url": "https://phimimg.com/upload/vod/20241101-1/86b7955327515e11f419e708a98d1755.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20241101-1/53cf20b9fda37d586e60f3d74a024512.jpg",
+            "year": 2024
+        },
+        {
+            "modified": {
+                "time": "2024-11-01T04:46:31.000Z"
+            },
+            "_id": "b2536bb8d03a531f21d4128a5efcf318",
+            "name": "V\u00f9ng \u0110\u1ea5t H\u1ea1nh Ph\u00fac",
+            "slug": "vung-dat-hanh-phuc",
+            "origin_name": "Land of Happiness",
+            "poster_url": "https://phimimg.com/upload/vod/20241101-1/320aba19d7ba747e3cbbbaee703dfcb3.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20241101-1/c83be1dfca968039155a839a1a29bb8d.jpg",
+            "year": 2024
+        },
+        {
+            "modified": {
+                "time": "2024-11-01T03:15:09.000Z"
+            },
+            "_id": "1c53040e891378ee80007ff253977452",
+            "name": "G\u00e3 H\u1ec1 \u0110i\u00ean Lo\u1ea1n 3",
+            "slug": "ga-he-dien-loan-3",
+            "origin_name": "Terrifier 3",
+            "poster_url": "https://phimimg.com/upload/vod/20241028-1/b394cacc739c6fa369dbe33f3796f431.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20241028-1/239f346b1abee66648b9a106109e23f6.jpg",
+            "year": 2024
+        }
+    ],
+    "pagination": {
+        "totalItems": 20645,
+        "totalItemsPerPage": 10,
+        "currentPage": 148,
+        "totalPages": 2065
+    }
+}

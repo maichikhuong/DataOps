@@ -1,0 +1,131 @@
+{
+    "status": true,
+    "items": [
+        {
+            "modified": {
+                "time": "2024-11-03T11:24:01.000Z"
+            },
+            "_id": "a2009556541dfee38d822cf642d80b8c",
+            "name": "T\u1ef1 Do",
+            "slug": "tu-do",
+            "origin_name": "Freedom",
+            "poster_url": "https://phimimg.com/upload/vod/20241103-1/712274dbfc32fa658a8360d0f85d6d83.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20241103-1/a7f4e6fe9a6aba0c3364abd31608ced0.jpg",
+            "year": 2024
+        },
+        {
+            "modified": {
+                "time": "2024-11-03T11:23:48.000Z"
+            },
+            "_id": "c05a343d88e2cac7ad9bd5f347189c62",
+            "name": "Ma H\u1ec1 Trong H\u1ed9p: S\u1ef1 Tr\u1ed7i D\u1eady",
+            "slug": "ma-he-trong-hop-su-troi-day",
+            "origin_name": "The Jack in the Box: Rises",
+            "poster_url": "https://phimimg.com/upload/vod/20241103-1/0c7aeff692f853c2a56156fc12c34e58.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20241103-1/2043c46fc9019ff5f39d486235842b58.jpg",
+            "year": 2024
+        },
+        {
+            "modified": {
+                "time": "2024-11-03T11:20:35.000Z"
+            },
+            "_id": "8854e85268e5bfb9fa2b5d70798a987a",
+            "name": "Sisyphus: Th\u1ea7n Tho\u1ea1i",
+            "slug": "sisyphus-than-thoai",
+            "origin_name": "Sisyphus",
+            "poster_url": "https://phimimg.com/upload/vod/20241103-1/664575ff9cc0cb536bbc04333bc23dc3.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20241103-1/ccdaa18e26202a3ce6b7f87048870db0.jpg",
+            "year": 2021
+        },
+        {
+            "modified": {
+                "time": "2024-11-03T11:19:38.000Z"
+            },
+            "_id": "86f48b1de523b6159630d09f56f31f1f",
+            "name": "S\u00e1t nh\u00e2n h\u1eefu \u00fd",
+            "slug": "sat-nhan-huu-y",
+            "origin_name": "Murder Mindfully",
+            "poster_url": "https://phimimg.com/upload/vod/20241103-1/6414145ca9d4cbe143e6d4dd1ab27257.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20241103-1/a81cc8d51657ce16318f2a9254707e06.jpg",
+            "year": 2024
+        },
+        {
+            "modified": {
+                "time": "2024-11-03T11:19:22.000Z"
+            },
+            "_id": "1d715bae5c24c728757dc4de28ae388f",
+            "name": "Nh\u00e0 Ngo\u1ea1i Giao (Ph\u1ea7n 2)",
+            "slug": "nha-ngoai-giao-phan-2",
+            "origin_name": "The Diplomat (Season 2)",
+            "poster_url": "https://phimimg.com/upload/vod/20241103-1/5aa1e9e135bb5c8bcbeb915db553d6fd.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20241103-1/3dd27784a5e24f088e2a795c5224f40c.jpg",
+            "year": 2024
+        },
+        {
+            "modified": {
+                "time": "2024-11-03T11:19:06.000Z"
+            },
+            "_id": "e1eeca17b9dfcdcb83cf616b66de2bef",
+            "name": "Ginny & Georgia",
+            "slug": "ginny-georgia",
+            "origin_name": "Ginny & Georgia",
+            "poster_url": "https://phimimg.com/upload/vod/20241103-1/3e0f771117fe73a7f664fd5d27ce6305.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20241103-1/6f9820b6d6e9f33135cab4459b76e00b.jpg",
+            "year": 2021
+        },
+        {
+            "modified": {
+                "time": "2024-11-03T11:18:50.000Z"
+            },
+            "_id": "a2bc9a43d2ec3fb9faf05fa563c89515",
+            "name": "Nh\u1eefng Ng\u1ea3 \u0110\u01b0\u1eddng \u01af\u1edbc M\u01a1 (Ph\u1ea7n 3)",
+            "slug": "nhung-nga-duong-uoc-mo-phan-3",
+            "origin_name": "Sintonia (Season 3)",
+            "poster_url": "https://phimimg.com/upload/vod/20241103-1/64a5aaf774133a1c8aa85317e3667ce4.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20241103-1/493a480dfe82a4e5eb27e997284a87a7.jpg",
+            "year": 2022
+        },
+        {
+            "modified": {
+                "time": "2024-11-03T11:18:31.000Z"
+            },
+            "_id": "03c2e5ba2237492b40ec20354a9a4f03",
+            "name": "Kh\u1ea3i Huy\u1ec1n Th\u1eddi C\u1ed5 \u0110\u1ea1i (Ph\u1ea7n 2)",
+            "slug": "khai-huyen-thoi-co-dai-phan-2",
+            "origin_name": "Ancient Apocalypse (Season 2)",
+            "poster_url": "https://phimimg.com/upload/vod/20241103-1/13d835d6c5a4b791fd3f04cd7a017248.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20241103-1/57f92ec17e29509bc4199a9527325ec7.jpg",
+            "year": 2024
+        },
+        {
+            "modified": {
+                "time": "2024-11-03T11:18:04.000Z"
+            },
+            "_id": "d29ac33c25a1fe0e50c3c105ab8675a6",
+            "name": "T\u00d4I L\u00c0 K\u1eba S\u00c1T NH\u00c2N (Ph\u1ea7n 5)",
+            "slug": "toi-la-ke-sat-nhan-phan-5",
+            "origin_name": "I AM A KILLER (Season 5)",
+            "poster_url": "https://phimimg.com/upload/vod/20241103-1/de3bea94409090d166063f7bd4d75acc.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20241103-1/534771257ca8530e61ba1119ef0f9a16.jpg",
+            "year": 2024
+        },
+        {
+            "modified": {
+                "time": "2024-11-03T11:17:47.000Z"
+            },
+            "_id": "b12b951661a93ed0d2e605f076f54693",
+            "name": "T\u00d4I L\u00c0 K\u1eba S\u00c1T NH\u00c2N (Ph\u1ea7n 2)",
+            "slug": "toi-la-ke-sat-nhan-phan-2",
+            "origin_name": "I AM A KILLER (Season 2)",
+            "poster_url": "https://phimimg.com/upload/vod/20241103-1/e33bd387b807d77b51921d393e560305.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20241103-1/b6a24d29525d86355f49f3e48537a5af.jpg",
+            "year": 2020
+        }
+    ],
+    "pagination": {
+        "totalItems": 20645,
+        "totalItemsPerPage": 10,
+        "currentPage": 142,
+        "totalPages": 2065
+    }
+}

@@ -1,0 +1,131 @@
+{
+    "status": true,
+    "items": [
+        {
+            "modified": {
+                "time": "2024-11-04T23:33:51.000Z"
+            },
+            "_id": "4f529984eccb6ebdc4795ee0cf154f5a",
+            "name": "L\u01b0\u1ee1i Dao Chi\u1ebfn Tranh",
+            "slug": "luoi-dao-chien-tranh",
+            "origin_name": "War Blade",
+            "poster_url": "https://phimimg.com/upload/vod/20241104-1/1737c40e394bb3d18116f6014ed56f40.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20241104-1/5180b08af8388789a13652383e1ddd84.jpg",
+            "year": 2024
+        },
+        {
+            "modified": {
+                "time": "2024-11-04T23:33:42.000Z"
+            },
+            "_id": "ca70e74a5b3dd23c785d83a73710b272",
+            "name": "T\u00ecnh M\u01a1",
+            "slug": "tinh-mo",
+            "origin_name": "Stag",
+            "poster_url": "https://phimimg.com/upload/vod/20241104-1/bae67d95ee0fb75bfc8bd327de702896.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20241104-1/cc9c4c138a17266bc05ee13d0c40296a.jpg",
+            "year": 2024
+        },
+        {
+            "modified": {
+                "time": "2024-11-04T23:33:32.000Z"
+            },
+            "_id": "459cd7c0d6a30fe025892b2f443a8edf",
+            "name": "Th\u1ebf Gi\u1edbi \u1ea2o Ma",
+            "slug": "the-gioi-ao-ma",
+            "origin_name": "Levels",
+            "poster_url": "https://phimimg.com/upload/vod/20241104-1/4a0c03322d4e759c8b1d5eb228d72888.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20241104-1/6b018cc11284b4d8b51942b6725b9cf0.jpg",
+            "year": 2024
+        },
+        {
+            "modified": {
+                "time": "2024-11-04T23:32:09.000Z"
+            },
+            "_id": "bceacbc22b52047beb978db6f5e869ce",
+            "name": "Anh \u1ea4y Ho\u00e0n H\u1ea3o",
+            "slug": "anh-ay-hoan-hao",
+            "origin_name": "Love Crossed",
+            "poster_url": "https://phimimg.com/upload/vod/20241104-1/f1f8847e13eb05600097dbfdb62616d7.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20241104-1/202ecb36c8548a7e5bf8f565d1b5722c.jpg",
+            "year": 2021
+        },
+        {
+            "modified": {
+                "time": "2024-11-04T23:31:54.000Z"
+            },
+            "_id": "cdab3b157a7d371aeeab5a0b24355d79",
+            "name": "N\u1eb1m V\u00f9ng (Ph\u1ea7n 3)",
+            "slug": "nam-vung-phan-3",
+            "origin_name": "Undercover (Season 3)",
+            "poster_url": "https://phimimg.com/upload/vod/20241104-1/2005fa1020b9546f9b12d700fd2c6389.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20241104-1/7e88f7997b898528f5c56f49ca4dd178.jpg",
+            "year": 2021
+        },
+        {
+            "modified": {
+                "time": "2024-11-04T23:31:42.000Z"
+            },
+            "_id": "bd7167ae12f2a9186ff406eb43f63bb7",
+            "name": "N\u1eb1m V\u00f9ng (Ph\u1ea7n 2)",
+            "slug": "nam-vung-phan-2",
+            "origin_name": "Undercover (Season 2)",
+            "poster_url": "https://phimimg.com/upload/vod/20241104-1/ee97c770732c6531aef2c74c3a5cc9cf.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20241104-1/570aa6eb147ba73421a43c43ff2d9fa0.jpg",
+            "year": 2020
+        },
+        {
+            "modified": {
+                "time": "2024-11-04T23:31:33.000Z"
+            },
+            "_id": "12f7312b4d9643975b72b9c5c032e2be",
+            "name": "N\u1eb1m V\u00f9ng (Ph\u1ea7n 1)",
+            "slug": "nam-vung-phan-1",
+            "origin_name": "Undercover (Season 1)",
+            "poster_url": "https://phimimg.com/upload/vod/20241104-1/272ad93fca672012242f1ba2088e9746.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20241104-1/d0457b5ff7ff9fe57d156edf54b2b420.jpg",
+            "year": 2019
+        },
+        {
+            "modified": {
+                "time": "2024-11-04T23:30:53.000Z"
+            },
+            "_id": "5f5ffbe75132e2154371f842f946c4e1",
+            "name": "V\u00f9ng \u0110\u1ea5t \u0110\u1ea1o T\u1eb7c",
+            "slug": "vung-dat-dao-tac",
+            "origin_name": "Ganglands",
+            "poster_url": "https://phimimg.com/upload/vod/20241104-1/2a5a721a1e835e622d7b233f3ac75503.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20241104-1/c78d18adc05e783b1e80075ebd33b54a.jpg",
+            "year": 2021
+        },
+        {
+            "modified": {
+                "time": "2024-11-04T23:30:29.000Z"
+            },
+            "_id": "9e87605e4f61ce50f8a510e663f4a644",
+            "name": "Hanma Baki",
+            "slug": "hanma-baki",
+            "origin_name": "Baki Hanma",
+            "poster_url": "https://phimimg.com/upload/vod/20241104-1/6213ca5e242976d54e677ad590c8dc70.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20241104-1/099d23e2f1b951dcc1d18d2547a309fb.jpg",
+            "year": 2021
+        },
+        {
+            "modified": {
+                "time": "2024-11-04T23:30:06.000Z"
+            },
+            "_id": "a8fb991b9f4b68a5475513a61f02593c",
+            "name": "Ti\u1ec1n B\u1ed1i, \u0110\u1eebng \u0110\u00e1nh M\u00e0u Son \u0110\u00f3",
+            "slug": "tien-boi-dung-danh-mau-son-do",
+            "origin_name": "She Would Never Know",
+            "poster_url": "https://phimimg.com/upload/vod/20241104-1/264761f9b51e9abbbbaef2b61fe44d6a.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20241104-1/f2451314ca86df714c91f151a8a484d3.jpg",
+            "year": 2021
+        }
+    ],
+    "pagination": {
+        "totalItems": 20645,
+        "totalItemsPerPage": 10,
+        "currentPage": 135,
+        "totalPages": 2065
+    }
+}
