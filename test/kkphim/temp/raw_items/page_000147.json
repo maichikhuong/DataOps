@@ -1,0 +1,131 @@
+{
+    "status": true,
+    "items": [
+        {
+            "modified": {
+                "time": "2024-11-01T19:59:30.000Z"
+            },
+            "_id": "a3d102cbbb0c4b3b8f0f4bcac52072e6",
+            "name": "T\u00ecnh Ng\u01b0\u1eddi Duy\u00ean Ma",
+            "slug": "tinh-nguoi-duyen-ma",
+            "origin_name": "Pee Mak",
+            "poster_url": "https://phimimg.com/upload/vod/20241101-1/9f233755f2ae17281d39667101da0a9a.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20241101-1/f887c5259b957e37174fffdd819711c9.jpg",
+            "year": 2013
+        },
+        {
+            "modified": {
+                "time": "2024-11-01T19:52:17.000Z"
+            },
+            "_id": "1b31a4f23c784d5b162a3066fa9aaf4f",
+            "name": "Ch\u00fa Ch\u00f3 Robot",
+            "slug": "chu-cho-robot",
+            "origin_name": "A.X.L.",
+            "poster_url": "https://phimimg.com/upload/vod/20241101-1/3d7c5ce80d94caa9ade4df9807e7b11f.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20241101-1/235baed5b7f8a1c64430a971d7ca7f84.jpg",
+            "year": 2018
+        },
+        {
+            "modified": {
+                "time": "2024-11-01T19:48:55.000Z"
+            },
+            "_id": "0147fa9611db0b7cd706139ae2170494",
+            "name": "N\u1eef Lu\u1eadt S\u01b0 Lidia Po\u00ebt (Ph\u1ea7n 2)",
+            "slug": "nu-luat-su-lidia-pot-phan-2",
+            "origin_name": "The Law According to Lidia Po\u00ebt (Season 2)",
+            "poster_url": "https://phimimg.com/upload/vod/20241101-1/7484e447dd154ce817e6dbc13e787806.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20241101-1/fa6a8ef3bee1fa4e67b87db897ab912e.jpg",
+            "year": 2024
+        },
+        {
+            "modified": {
+                "time": "2024-11-01T19:48:39.000Z"
+            },
+            "_id": "8d2d578fff5f9c60e57d0ff19614b47f",
+            "name": "T\u00f2a Nh\u00e0 Kim Ti\u00eau",
+            "slug": "toa-nha-kim-tieu",
+            "origin_name": "Barrack O Karma",
+            "poster_url": "https://phimimg.com/upload/vod/20241101-1/edfcc05736f94bd7b1bca32e8804ead6.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20241101-1/cf1e9b733a334071f099ebd8b0e7b47a.jpg",
+            "year": 2019
+        },
+        {
+            "modified": {
+                "time": "2024-11-01T12:23:30.000Z"
+            },
+            "_id": "2169a2cc59e83ed5c094702f589fdd1d",
+            "name": "Y\u00eau Em 3000 L\u1ea7n",
+            "slug": "yeu-em-3000-lan",
+            "origin_name": "Love You 3000 Times",
+            "poster_url": "https://phimimg.com/upload/vod/20241030-1/747e850e70a3acfddd2d9a819f858d21.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20241030-1/12b8b02e7891c9a491d475ebb33bcf78.jpg",
+            "year": 2024
+        },
+        {
+            "modified": {
+                "time": "2024-11-01T10:54:47.000Z"
+            },
+            "_id": "fff079091fab64095f9cad3298f1057a",
+            "name": "Ch\u00fa Ch\u00f3 Bi\u1ebft Tu\u1ed1t",
+            "slug": "chu-cho-biet-tuot",
+            "origin_name": "Dog Knows Everything",
+            "poster_url": "https://phimimg.com/upload/vod/20240925-1/5386894a695d5a2045c1c9501fd62ef9.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20240925-1/3d3c0f012a1f386a0a26bd5a1f481676.jpg",
+            "year": 2024
+        },
+        {
+            "modified": {
+                "time": "2024-11-01T07:18:17.000Z"
+            },
+            "_id": "1a93e014eafe8cbab4f4d54ee030ad66",
+            "name": "Nh\u1ecb Lang Th\u1ea7n: Th\u00e2m H\u1ea3i Giao Long",
+            "slug": "nhi-lang-than-tham-hai-giao-long",
+            "origin_name": "God With Three Eyes",
+            "poster_url": "https://phimimg.com/upload/vod/20241101-1/e96c7f25039327f64de4f869fbc17188.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20241101-1/b140ade5670a2823ffeb074e1492f845.jpg",
+            "year": 2024
+        },
+        {
+            "modified": {
+                "time": "2024-11-01T06:37:30.000Z"
+            },
+            "_id": "d950e8c6b584dfac7d569aacf43519a7",
+            "name": "Oanh Oanh T\u00fac Ng\u1eef Di\u1ec7c Nan C\u1ea7u",
+            "slug": "oanh-oanh-tuc-ngu-diec-nan-cau",
+            "origin_name": "Su Yu",
+            "poster_url": "https://phimimg.com/upload/vod/20241101-1/0a89268dc9ae6dd270e8c8c5645a51ff.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20241101-1/5de877fe060b4ac321b62602c5a000bc.jpg",
+            "year": 2020
+        },
+        {
+            "modified": {
+                "time": "2024-11-01T06:36:04.000Z"
+            },
+            "_id": "00509e33150cba19d677c83ad03febae",
+            "name": "M\u1eb7t T\u1ed1i C\u1ee7a T\u00ecnh Y\u00eau",
+            "slug": "mat-toi-cua-tinh-yeu",
+            "origin_name": "The Dark Side Of Love",
+            "poster_url": "https://phimimg.com/upload/vod/20241101-1/20a4888891f86ab0d40101bc2b79fd9c.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20241101-1/cda18f273def58879f57f669967ab954.jpg",
+            "year": 1984
+        },
+        {
+            "modified": {
+                "time": "2024-11-01T05:58:33.000Z"
+            },
+            "_id": "567431a7bb9273da729db5650a995590",
+            "name": "Th\u00fa T\u00ednh T\u1eadt Nguy\u1ec1n 2",
+            "slug": "thu-tinh-tat-nguyen-2",
+            "origin_name": "Crime Of A Beast 2",
+            "poster_url": "https://phimimg.com/upload/vod/20241101-1/53f1a9b62239af5bf66878b9e1b3b65f.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20241101-1/0f1c73e5b6d09895090ca95fdabe9f02.jpg",
+            "year": 2002
+        }
+    ],
+    "pagination": {
+        "totalItems": 20645,
+        "totalItemsPerPage": 10,
+        "currentPage": 147,
+        "totalPages": 2065
+    }
+}

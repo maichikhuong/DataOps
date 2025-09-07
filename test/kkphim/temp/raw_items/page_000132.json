@@ -1,0 +1,131 @@
+{
+    "status": true,
+    "items": [
+        {
+            "modified": {
+                "time": "2024-11-05T23:10:26.000Z"
+            },
+            "_id": "d91f7910cd3924264d0a7732a94a624b",
+            "name": "H\u00e0nh Tr\u00ecnh T\u00ecm L\u1ea1i T\u00ecnh Y\u00eau",
+            "slug": "hanh-trinh-tim-lai-tinh-yeu",
+            "origin_name": "Check Out the Event",
+            "poster_url": "https://phimimg.com/upload/vod/20241105-1/8f428a968125c38f78db062b7fb38fb2.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20241105-1/6353daf8353c29552cb6cf95d86638eb.jpg",
+            "year": 2021
+        },
+        {
+            "modified": {
+                "time": "2024-11-05T23:10:12.000Z"
+            },
+            "_id": "bba10363e29f581f99de4d553f22a27e",
+            "name": "B\u00e0i h\u00e1t cho c\u00f4ng d\u00e2n nh\u00ed",
+            "slug": "bai-hat-cho-cong-dan-nhi",
+            "origin_name": "We the People",
+            "poster_url": "https://phimimg.com/upload/vod/20241105-1/efed653dba5dbe653c90f7f02aa5ddf4.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20241105-1/39bef7903b94e65f795bdba75bdf01d8.jpg",
+            "year": 2021
+        },
+        {
+            "modified": {
+                "time": "2024-11-05T23:09:58.000Z"
+            },
+            "_id": "72fb5a1bbd1cda5a11251ba1d220672e",
+            "name": "C\u00e2u chuy\u1ec7n c\u1ee7a m\u1ed9t th\u1ebf h\u1ec7 - v\u1edbi Gi\u00e1o ho\u00e0ng Francis",
+            "slug": "cau-chuyen-cua-mot-the-he-voi-giao-hoang-francis",
+            "origin_name": "Stories of a Generation - with Pope Francis",
+            "poster_url": "https://phimimg.com/upload/vod/20241105-1/4c9d0275db9769dbe11b38840c906625.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20241105-1/bbd6ed0099a1008fda953e27e9d4dbd9.jpg",
+            "year": 2021
+        },
+        {
+            "modified": {
+                "time": "2024-11-05T23:09:42.000Z"
+            },
+            "_id": "66c3339bb081477acf468be9be7e5415",
+            "name": "V\u1ee5 s\u00e1t h\u1ea1i gi\u1eefa t\u00edn \u0111\u1ed3 Mormon",
+            "slug": "vu-sat-hai-giua-tin-do-mormon",
+            "origin_name": "Murder Among the Mormons",
+            "poster_url": "https://phimimg.com/upload/vod/20241105-1/922a7f72d0accf4d81f82cfa0e34283b.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20241105-1/666db3a160baa7286c4a08c9bb35f90c.jpg",
+            "year": 2021
+        },
+        {
+            "modified": {
+                "time": "2024-11-05T23:09:28.000Z"
+            },
+            "_id": "61864b3fd1c2b21f77e9029973e5c123",
+            "name": "The One",
+            "slug": "the-one",
+            "origin_name": "The One",
+            "poster_url": "https://phimimg.com/upload/vod/20241105-1/58e497f57fdd31cda963de5f8e55871b.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20241105-1/7d23a73a2b4fa5e2d2afaa2702144cf2.jpg",
+            "year": 2021
+        },
+        {
+            "modified": {
+                "time": "2024-11-05T23:09:03.000Z"
+            },
+            "_id": "ae8bddcb177c34849249800dc684ac2c",
+            "name": "D\u1eabu Bi\u1ebft",
+            "slug": "dau-biet",
+            "origin_name": "Nevertheless",
+            "poster_url": "https://phimimg.com/upload/vod/20241105-1/6fb3bdb50ca0c0045e53add39936db0d.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20241105-1/a07b3504c7411b2dac06a22f6ee4244c.jpg",
+            "year": 2021
+        },
+        {
+            "modified": {
+                "time": "2024-11-05T23:08:47.000Z"
+            },
+            "_id": "1c443504f12339512726b931d14dda8c",
+            "name": "Monarca (Ph\u1ea7n 2)",
+            "slug": "monarca-phan-2",
+            "origin_name": "Monarca (Season 2)",
+            "poster_url": "https://phimimg.com/upload/vod/20241105-1/13470f29490dc7d8f3fad30dc3948add.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20241105-1/091ffb26ae1a1f36a28e3c21e30cc2f7.jpg",
+            "year": 2021
+        },
+        {
+            "modified": {
+                "time": "2024-11-05T23:08:37.000Z"
+            },
+            "_id": "5478c9cd79f4e04b6a2f6e2b4ab9f513",
+            "name": "Monarca (Ph\u1ea7n 1)",
+            "slug": "monarca-phan-1",
+            "origin_name": "Monarca (Season 1)",
+            "poster_url": "https://phimimg.com/upload/vod/20241105-1/a2a6cd868a5bfab77a80155e1d643ed1.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20241105-1/f02c23dba85be858744aa59f079c43a3.jpg",
+            "year": 2019
+        },
+        {
+            "modified": {
+                "time": "2024-11-05T23:08:12.000Z"
+            },
+            "_id": "9f101af9ef29de5f699b27fefc3f80c5",
+            "name": "L\u1ea1c Ngo\u00e0i Kh\u00f4ng Gian (Ph\u1ea7n 3)",
+            "slug": "lac-ngoai-khong-gian-phan-3",
+            "origin_name": "Lost In Space (Season 3)",
+            "poster_url": "https://phimimg.com/upload/vod/20241105-1/db957f7f55083eb0b9b13c3a12621b78.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20241105-1/e2fe6c9796d4500732bad663dfc756d9.jpg",
+            "year": 2021
+        },
+        {
+            "modified": {
+                "time": "2024-11-05T23:08:02.000Z"
+            },
+            "_id": "c40446528c95fdcde7153c301f78170f",
+            "name": "L\u1ea1c Ngo\u00e0i Kh\u00f4ng Gian (Ph\u1ea7n 1)",
+            "slug": "lac-ngoai-khong-gian-phan-1",
+            "origin_name": "Lost in Space (Season 1)",
+            "poster_url": "https://phimimg.com/upload/vod/20241105-1/94352ef2b6f12adb3d604a821f42c57a.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20241105-1/bf2be700c7363020bca6af5c4d8dd710.jpg",
+            "year": 2018
+        }
+    ],
+    "pagination": {
+        "totalItems": 20645,
+        "totalItemsPerPage": 10,
+        "currentPage": 132,
+        "totalPages": 2065
+    }
+}

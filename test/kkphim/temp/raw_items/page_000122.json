@@ -1,0 +1,131 @@
+{
+    "status": true,
+    "items": [
+        {
+            "modified": {
+                "time": "2024-11-10T02:33:54.000Z"
+            },
+            "_id": "565930aa1d09ef2af5dd17eedf2edfa4",
+            "name": "D\u00e3 Ngo\u1ea1i Th\u1ea3nh Th\u01a1i (Ph\u1ea7n 2)",
+            "slug": "da-ngoai-thanh-thoi-phan-2",
+            "origin_name": "Yuru Camp (Season 2)",
+            "poster_url": "https://phimimg.com/upload/vod/20241110-1/c03212c8e5b1e876c158defa4a758029.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20241110-1/d164ff8ed9a9301fa16e084535d47564.jpg",
+            "year": 2021
+        },
+        {
+            "modified": {
+                "time": "2024-11-10T02:32:40.000Z"
+            },
+            "_id": "74db80486179f9e43bed14f2d28c70a8",
+            "name": "D\u00e3 Ngo\u1ea1i Th\u1ea3nh Th\u01a1i (Ph\u1ea7n 1)",
+            "slug": "da-ngoai-thanh-thoi-phan-1",
+            "origin_name": "Yuru Camp (Season 1)",
+            "poster_url": "https://phimimg.com/upload/vod/20241110-1/3a145af1f1ea3aed8abda5c107f7b156.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20241110-1/bfcee4690535bf453081f2f07f763ed3.jpg",
+            "year": 2018
+        },
+        {
+            "modified": {
+                "time": "2024-11-10T02:27:47.000Z"
+            },
+            "_id": "ec390e445f99f5d8c57a847f02552fbc",
+            "name": "Di\u1ec7t M\u00f4n Th\u1ea3m \u00c1n 2",
+            "slug": "diet-mon-tham-an-2",
+            "origin_name": "Daughter Of Darkness 2",
+            "poster_url": "https://phimimg.com/upload/vod/20241110-1/2b7dcda759fd3c989bebef417292504f.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20241110-1/8f291cc616489bfdd14fcee76408ef86.jpg",
+            "year": 1994
+        },
+        {
+            "modified": {
+                "time": "2024-11-10T02:20:55.000Z"
+            },
+            "_id": "0406576f71bdf8cdb29942cd5c1548c7",
+            "name": "Ch\u00fa Thu\u1eadt H\u1ed3i Chi\u1ebfn (Ph\u1ea7n 2)",
+            "slug": "chu-thuat-hoi-chien-phan-2",
+            "origin_name": "Jujutsu Kaisen (Season 2)",
+            "poster_url": "https://phimimg.com/upload/vod/20241110-1/d1abe4b2a3e45d134b93a04bf0f092c4.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20241110-1/c45234f1d053b95ed8fbf2b2ad6c6865.jpg",
+            "year": 2020
+        },
+        {
+            "modified": {
+                "time": "2024-11-10T01:25:23.000Z"
+            },
+            "_id": "d222914df5cdfd8a9196059965eaa352",
+            "name": "Ch\u00fa Thu\u1eadt H\u1ed3i Chi\u1ebfn (Ph\u1ea7n 1)",
+            "slug": "chu-thuat-hoi-chien-phan-1",
+            "origin_name": "Jujutsu Kaisen (Season 1)",
+            "poster_url": "https://phimimg.com/upload/vod/20240326-1/c0630a29c6ddbf44f405ee877e51ef31.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20240326-1/1df00077dba734084fd745e2580d40a6.jpg",
+            "year": 2020
+        },
+        {
+            "modified": {
+                "time": "2024-11-09T20:33:02.000Z"
+            },
+            "_id": "6060d12ec4413d29a17e7584783c23be",
+            "name": "Arcane: Li\u00ean Minh Huy\u1ec1n Tho\u1ea1i (Ph\u1ea7n 1)",
+            "slug": "arcane-lien-minh-huyen-thoai-phan-1",
+            "origin_name": "Arcane (Season 1)",
+            "poster_url": "https://phimimg.com/upload/vod/20241001-1/b17489996dc095e8a90eb2ca5f06d797.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20241001-1/dae7d80cd9a77bc2a6edc5b8d0104292.jpg",
+            "year": 2021
+        },
+        {
+            "modified": {
+                "time": "2024-11-09T17:48:33.000Z"
+            },
+            "_id": "6cf8912022f697ca81e17e33dc2993e6",
+            "name": "V\u1eabn R\u1ea5t Y\u00eau C\u00f4 \u1ea4y",
+            "slug": "van-rat-yeu-co-ay",
+            "origin_name": "Lost And Found",
+            "poster_url": "https://phimimg.com/upload/vod/20241026-1/18e2f63c5fb5c2787852c1bd89dbc364.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20241026-1/34e7c32c863d6f9d26af38f73c081600.jpg",
+            "year": 2024
+        },
+        {
+            "modified": {
+                "time": "2024-11-09T17:47:23.000Z"
+            },
+            "_id": "61d647c1a3d7b66b408e4a21c3167fe2",
+            "name": "Th\u00e1m T\u00ecnh An",
+            "slug": "tham-tinh-an",
+            "origin_name": "Dawn Amidst Hidden Clouds",
+            "poster_url": "https://phimimg.com/upload/vod/20241026-1/f675c1dda17aeb20cfa10f456aec154b.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20241026-1/68a4f91b35a5e0a7adc2a840e17cd3a0.jpg",
+            "year": 2024
+        },
+        {
+            "modified": {
+                "time": "2024-11-09T17:44:42.000Z"
+            },
+            "_id": "874e32f9341fbd8141c45090f858e30b",
+            "name": "\u0110\u01b0\u1eddng T\u1edbi Ng\u00f4i V\u01b0\u01a1ng (M\u00f9a 2)",
+            "slug": "duong-toi-ngoi-vuong-mua-2",
+            "origin_name": "Road To Kingdom: Ace Of Ace",
+            "poster_url": "https://phimimg.com/upload/vod/20240928-1/c3c486b2cb8b588df34426b0e1fdc1b5.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20240928-1/9bd3135f535b4e577fcb0a7d4ca5342b.jpg",
+            "year": 2024
+        },
+        {
+            "modified": {
+                "time": "2024-11-09T17:20:53.000Z"
+            },
+            "_id": "cc5e82c68af96ec8554ac4ae9cea008d",
+            "name": "Ch\u1edd Ng\u01b0\u1eddi N\u01a1i Ph\u00e1o Hoa R\u1ef1c R\u1ee1",
+            "slug": "cho-nguoi-noi-phao-hoa-ruc-ro",
+            "origin_name": "A Balloon's Landing",
+            "poster_url": "https://phimimg.com/upload/vod/20241109-1/ab91cf6b6630f8334bbb0f98d58071b3.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20241109-1/5223050570ff9a6c2d07246ce5cd789e.jpg",
+            "year": 2024
+        }
+    ],
+    "pagination": {
+        "totalItems": 20645,
+        "totalItemsPerPage": 10,
+        "currentPage": 122,
+        "totalPages": 2065
+    }
+}
