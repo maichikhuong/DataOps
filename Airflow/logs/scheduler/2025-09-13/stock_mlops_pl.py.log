@@ -280,3 +280,10 @@ SyntaxError: expected 'except' or 'finally' block
 [2025-09-13T16:29:28.739+0000] {logging_mixin.py:190} INFO - [2025-09-13T16:29:28.739+0000] {dag.py:3211} INFO - Sync 1 DAGs
 [2025-09-13T16:29:28.750+0000] {logging_mixin.py:190} INFO - [2025-09-13T16:29:28.750+0000] {dag.py:4138} INFO - Setting next_dagrun for stock_mlops_pl to None, run_after=None
 [2025-09-13T16:29:28.767+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/stock_mlops_pl.py took 0.812 seconds
+[2025-09-13T16:29:59.113+0000] {processor.py:186} INFO - Started process (PID=4022) to work on /opt/airflow/dags/stock_mlops_pl.py
+[2025-09-13T16:29:59.114+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/stock_mlops_pl.py for tasks to queue
+[2025-09-13T16:29:59.116+0000] {logging_mixin.py:190} INFO - [2025-09-13T16:29:59.116+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/stock_mlops_pl.py
+[2025-09-13T16:29:59.873+0000] {processor.py:925} INFO - DAG(s) 'stock_mlops_pl' retrieved from /opt/airflow/dags/stock_mlops_pl.py
+[2025-09-13T16:29:59.911+0000] {logging_mixin.py:190} INFO - [2025-09-13T16:29:59.911+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2025-09-13T16:29:59.926+0000] {logging_mixin.py:190} INFO - [2025-09-13T16:29:59.926+0000] {dag.py:4138} INFO - Setting next_dagrun for stock_mlops_pl to None, run_after=None
+[2025-09-13T16:29:59.954+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/stock_mlops_pl.py took 0.846 seconds
