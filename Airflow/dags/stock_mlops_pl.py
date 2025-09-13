@@ -38,19 +38,13 @@ def etl_pipeline():
 
     @task
     def get_data(ti):
-        results = get_api()
-        print(results)
-        # ti.xcom_push(key = 'stock_data', value = results)
+        ti.xcom_push(key = 'stock_data', value = get_api())
         
     @task
-    def create_insesrt_data(ti):
-        # results = ti.xcom_pull(task_ids = 'get_data', key = 'stock_data')
-        # print(results)
-        results = get_api()
-        print(results)
-        create_insert_table(results)
+    def create_insert_data(ti):
+        create_insert_table(ti.xcom_pull(task_ids = 'get_data', key = 'stock_data'))
         
-    get_data() >> create_insesrt_data()
+    get_data() >> create_insert_data()
 
 dag = etl_pipeline()
 
