@@ -20,7 +20,6 @@ from call_get_data import get_api
 sys.path.insert(0, 'DataOps/data-pipelines/stock/common')
 from utils import create_insert_table
 
-
 default_args = {
     'owner': 'Khuong',
     'retries': 5,
@@ -30,7 +29,7 @@ default_args = {
 
 @dag(dag_id = 'stock_mlops_pl',
     default_args = default_args,
-    start_date = None,
+    start_date=None,
     schedule_interval = None, 
     tags = ['binance stock', 'mlops']
      )
@@ -38,19 +37,13 @@ def etl_pipeline():
 
     @task
     def get_data(ti):
-        results = get_api()
-        print(results)
-        # ti.xcom_push(key = 'stock_data', value = results)
+        ti.xcom_push(key = 'stock_data', value = get_api())
         
     @task
-    def create_insesrt_data(ti):
-        # results = ti.xcom_pull(task_ids = 'get_data', key = 'stock_data')
-        # print(results)
-        results = get_api()
-        print(results)
-        create_insert_table(results)
+    def create_insert_data(ti):
+        create_insert_table(ti.xcom_pull(task_ids = 'get_data', key = 'stock_data'))
         
-    get_data() >> create_insesrt_data()
+    get_data() >> create_insert_data()
 
 dag = etl_pipeline()
 
