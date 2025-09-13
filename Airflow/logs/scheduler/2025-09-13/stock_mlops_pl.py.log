@@ -1782,3 +1782,17 @@ IndentationError: unindent does not match any outer indentation level
 [2025-09-13T20:34:12.915+0000] {logging_mixin.py:190} INFO - [2025-09-13T20:34:12.915+0000] {dag.py:3211} INFO - Sync 1 DAGs
 [2025-09-13T20:34:12.922+0000] {logging_mixin.py:190} INFO - [2025-09-13T20:34:12.922+0000] {dag.py:4138} INFO - Setting next_dagrun for stock_mlops_pl to None, run_after=None
 [2025-09-13T20:34:12.930+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/stock_mlops_pl.py took 0.637 seconds
+[2025-09-13T20:34:43.069+0000] {processor.py:186} INFO - Started process (PID=5142) to work on /opt/airflow/dags/stock_mlops_pl.py
+[2025-09-13T20:34:43.070+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/stock_mlops_pl.py for tasks to queue
+[2025-09-13T20:34:43.071+0000] {logging_mixin.py:190} INFO - [2025-09-13T20:34:43.071+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/stock_mlops_pl.py
+[2025-09-13T20:34:43.618+0000] {processor.py:925} INFO - DAG(s) 'stock_mlops_pl' retrieved from /opt/airflow/dags/stock_mlops_pl.py
+[2025-09-13T20:34:43.629+0000] {logging_mixin.py:190} INFO - [2025-09-13T20:34:43.629+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2025-09-13T20:34:43.635+0000] {logging_mixin.py:190} INFO - [2025-09-13T20:34:43.635+0000] {dag.py:4138} INFO - Setting next_dagrun for stock_mlops_pl to None, run_after=None
+[2025-09-13T20:34:43.643+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/stock_mlops_pl.py took 0.584 seconds
+[2025-09-13T20:35:13.856+0000] {processor.py:186} INFO - Started process (PID=5164) to work on /opt/airflow/dags/stock_mlops_pl.py
+[2025-09-13T20:35:13.858+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/stock_mlops_pl.py for tasks to queue
+[2025-09-13T20:35:13.861+0000] {logging_mixin.py:190} INFO - [2025-09-13T20:35:13.860+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/stock_mlops_pl.py
+[2025-09-13T20:35:14.317+0000] {processor.py:925} INFO - DAG(s) 'stock_mlops_pl' retrieved from /opt/airflow/dags/stock_mlops_pl.py
+[2025-09-13T20:35:14.329+0000] {logging_mixin.py:190} INFO - [2025-09-13T20:35:14.328+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2025-09-13T20:35:14.335+0000] {logging_mixin.py:190} INFO - [2025-09-13T20:35:14.335+0000] {dag.py:4138} INFO - Setting next_dagrun for stock_mlops_pl to None, run_after=None
+[2025-09-13T20:35:14.343+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/stock_mlops_pl.py took 0.497 seconds
