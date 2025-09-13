@@ -12,6 +12,7 @@ conn = duckdb.connect(f"md:my_db?motherduck_token={duckdb_token}")
 cur = conn.cursor()
 
 def create_insert_table(value):
+    global conn, cur
     try:
     
         create_script = """ CREATE TABLE IF NOT EXISTS BINANCE (
@@ -29,7 +30,8 @@ def create_insert_table(value):
 
         for record in value:
             conn.sql(f"""INSERT INTO BINANCE VALUES {record}""")
+        print("Create and Insert Data Successfully!")
 
         
-    except Exception as error:
-        print(error)
+    except Exception as e:
+        print(e)
