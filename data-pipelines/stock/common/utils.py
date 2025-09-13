@@ -7,13 +7,15 @@ import pandas as pd
 sys.path.append('../../..')
 from connection_params import *
 # initiate the MotherDuck connection through a service token through
-conn = duckdb.connect(f"md:my_db?motherduck_token={duckdb_token}")
-
-cur = conn.cursor()
 
 def create_insert_table(value):
-    global conn, cur
     try:
+        try:
+            conn = duckdb.connect(f"md:my_db?motherduck_token={duckdb_token}")
+            cur = conn.cursor()
+            print("Connect DuckDB Successfully!")
+        except TypeError as e:
+            print(e)
     
         create_script = """ CREATE TABLE IF NOT EXISTS BINANCE (
                                 Pair_ID varchar(30),
@@ -32,6 +34,8 @@ def create_insert_table(value):
             conn.sql(f"""INSERT INTO BINANCE VALUES {record}""")
         print("Create and Insert Data Successfully!")
 
+        conn.close()
+        cur.close()
         
     except Exception as e:
         print(e)

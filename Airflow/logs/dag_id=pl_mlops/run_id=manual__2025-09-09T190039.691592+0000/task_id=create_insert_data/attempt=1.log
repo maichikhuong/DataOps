@@ -1,0 +1,20 @@
+[2025-09-09T19:01:03.789+0000] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2025-09-09T19:01:03.819+0000] {taskinstance.py:2603} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: pl_mlops.create_insert_data manual__2025-09-09T19:00:39.691592+00:00 [queued]>
+[2025-09-09T19:01:03.826+0000] {taskinstance.py:2603} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: pl_mlops.create_insert_data manual__2025-09-09T19:00:39.691592+00:00 [queued]>
+[2025-09-09T19:01:03.827+0000] {taskinstance.py:2856} INFO - Starting attempt 1 of 6
+[2025-09-09T19:01:03.835+0000] {taskinstance.py:2879} INFO - Executing <Task(_PythonDecoratedOperator): create_insert_data> on 2025-09-09 19:00:39.691592+00:00
+[2025-09-09T19:01:03.848+0000] {standard_task_runner.py:72} INFO - Started process 995 to run task
+[2025-09-09T19:01:03.850+0000] {standard_task_runner.py:104} INFO - Running: ['***', 'tasks', 'run', 'pl_mlops', 'create_insert_data', 'manual__2025-09-09T19:00:39.691592+00:00', '--job-id', '15', '--raw', '--subdir', 'DAGS_FOLDER/mlops_pl.py', '--cfg-path', '/tmp/tmphkecj7wp']
+[2025-09-09T19:01:03.854+0000] {standard_task_runner.py:105} INFO - Job 15: Subtask create_insert_data
+[2025-09-09T19:01:03.958+0000] {task_command.py:467} INFO - Running <TaskInstance: pl_mlops.create_insert_data manual__2025-09-09T19:00:39.691592+00:00 [running]> on host 1c6bfd2ed82f
+[2025-09-09T19:01:04.092+0000] {taskinstance.py:3122} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='Khuong' AIRFLOW_CTX_DAG_ID='pl_mlops' AIRFLOW_CTX_TASK_ID='create_insert_data' AIRFLOW_CTX_EXECUTION_DATE='2025-09-09T19:00:39.691592+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2025-09-09T19:00:39.691592+00:00'
+[2025-09-09T19:01:04.094+0000] {taskinstance.py:731} INFO - ::endgroup::
+[2025-09-09T19:01:04.096+0000] {logging_mixin.py:190} INFO - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Im1haWNoaWtodW9uZzE5OThAZ21haWwuY29tIiwic2Vzc2lvbiI6Im1haWNoaWtodW9uZzE5OTguZ21haWwuY29tIiwicGF0IjoiNTFWQlRVY1NWQzdRa1FSQVAzYTA4RURmelhfSjFPLWZMVUdTSTQzbWxwbyIsInVzZXJJZCI6IjJiOTgzYTE2LWNkZjMtNDg4NC04NWQ2LWU3OGNmMmFjMzIwOSIsImlzcyI6Im1kX3BhdCIsInJlYWRPbmx5IjpmYWxzZSwidG9rZW5UeXBlIjoicmVhZF93cml0ZSIsImlhdCI6MTc1NzQ0MzkzOCwiZXhwIjoxNzg4OTc5OTM4fQ.mnwSGv1B-4bhricpH-P9cB8YDuzgIwEwKCYt6oLQ2kQ
+[2025-09-09T19:03:10.876+0000] {local_task_job_runner.py:341} WARNING - State of this instance has been externally set to failed. Terminating instance.
+[2025-09-09T19:03:10.877+0000] {local_task_job_runner.py:240} INFO - ::endgroup::
+[2025-09-09T19:03:10.879+0000] {process_utils.py:132} INFO - Sending 15 to group 995. PIDs of all processes in the group: [995]
+[2025-09-09T19:03:10.879+0000] {process_utils.py:87} INFO - Sending the signal 15 to group 995
+[2025-09-09T19:04:10.881+0000] {process_utils.py:150} WARNING - process psutil.Process(pid=995, name='airflow task ru', status='sleeping', started='19:01:03') did not respond to SIGTERM. Trying SIGKILL
+[2025-09-09T19:04:10.883+0000] {process_utils.py:87} INFO - Sending the signal 9 to group 995
+[2025-09-09T19:04:10.897+0000] {process_utils.py:80} INFO - Process psutil.Process(pid=995, name='airflow task ru', status='terminated', exitcode=<Negsignal.SIGKILL: -9>, started='19:01:03') (995) terminated with exit code -9
+[2025-09-09T19:04:10.899+0000] {standard_task_runner.py:190} ERROR - ('Job 15 was killed before it finished (likely due to running out of memory)', 'For more information, see https://***.apache.org/docs/apache-***/stable/troubleshooting.html#LocalTaskJob-killed')

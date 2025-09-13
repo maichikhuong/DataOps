@@ -44,7 +44,9 @@ def etl_pipeline():
         
     @task
     def create_insesrt_data(ti):
-        results = ti.xcom_pull(task_ids = 'get_data', key = 'stock_data')
+        # results = ti.xcom_pull(task_ids = 'get_data', key = 'stock_data')
+        # print(results)
+        results = get_api()
         print(results)
         create_insert_table(results)
         
