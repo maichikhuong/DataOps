@@ -1,8 +1,5 @@
 # .gitignore
 __pycache__
 Airflow/pgdata/
-Airflow/plugins/
 dataops_env/
-data-pipelines/stock/common/__pycache__
-data-pipelines/stock/py-files/__pycache__
 # connection_params.py

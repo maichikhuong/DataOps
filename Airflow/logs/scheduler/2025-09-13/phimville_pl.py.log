@@ -1388,3 +1388,150 @@
 [2025-09-13T20:23:30.753+0000] {logging_mixin.py:190} INFO - [2025-09-13T20:23:30.753+0000] {dag.py:3211} INFO - Sync 1 DAGs
 [2025-09-13T20:23:30.845+0000] {logging_mixin.py:190} INFO - [2025-09-13T20:23:30.845+0000] {dag.py:4138} INFO - Setting next_dagrun for phimville_pl to None, run_after=None
 [2025-09-13T20:23:30.855+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/phimville_pl.py took 0.292 seconds
+[2025-09-13T20:24:01.169+0000] {processor.py:186} INFO - Started process (PID=4599) to work on /opt/airflow/dags/phimville_pl.py
+[2025-09-13T20:24:01.171+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/phimville_pl.py for tasks to queue
+[2025-09-13T20:24:01.174+0000] {logging_mixin.py:190} INFO - [2025-09-13T20:24:01.173+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/phimville_pl.py
+[2025-09-13T20:24:01.378+0000] {processor.py:925} INFO - DAG(s) 'phimville_pl' retrieved from /opt/airflow/dags/phimville_pl.py
+[2025-09-13T20:24:01.400+0000] {logging_mixin.py:190} INFO - [2025-09-13T20:24:01.400+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2025-09-13T20:24:01.408+0000] {logging_mixin.py:190} INFO - [2025-09-13T20:24:01.408+0000] {dag.py:4138} INFO - Setting next_dagrun for phimville_pl to None, run_after=None
+[2025-09-13T20:24:01.417+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/phimville_pl.py took 0.260 seconds
+[2025-09-13T20:24:31.765+0000] {processor.py:186} INFO - Started process (PID=4621) to work on /opt/airflow/dags/phimville_pl.py
+[2025-09-13T20:24:31.767+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/phimville_pl.py for tasks to queue
+[2025-09-13T20:24:31.770+0000] {logging_mixin.py:190} INFO - [2025-09-13T20:24:31.770+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/phimville_pl.py
+[2025-09-13T20:24:31.923+0000] {processor.py:925} INFO - DAG(s) 'phimville_pl' retrieved from /opt/airflow/dags/phimville_pl.py
+[2025-09-13T20:24:31.939+0000] {logging_mixin.py:190} INFO - [2025-09-13T20:24:31.938+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2025-09-13T20:24:31.946+0000] {logging_mixin.py:190} INFO - [2025-09-13T20:24:31.946+0000] {dag.py:4138} INFO - Setting next_dagrun for phimville_pl to None, run_after=None
+[2025-09-13T20:24:31.954+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/phimville_pl.py took 0.196 seconds
+[2025-09-13T20:25:02.312+0000] {processor.py:186} INFO - Started process (PID=4642) to work on /opt/airflow/dags/phimville_pl.py
+[2025-09-13T20:25:02.313+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/phimville_pl.py for tasks to queue
+[2025-09-13T20:25:02.316+0000] {logging_mixin.py:190} INFO - [2025-09-13T20:25:02.316+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/phimville_pl.py
+[2025-09-13T20:25:02.489+0000] {processor.py:925} INFO - DAG(s) 'phimville_pl' retrieved from /opt/airflow/dags/phimville_pl.py
+[2025-09-13T20:25:02.513+0000] {logging_mixin.py:190} INFO - [2025-09-13T20:25:02.513+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2025-09-13T20:25:02.522+0000] {logging_mixin.py:190} INFO - [2025-09-13T20:25:02.522+0000] {dag.py:4138} INFO - Setting next_dagrun for phimville_pl to None, run_after=None
+[2025-09-13T20:25:02.531+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/phimville_pl.py took 0.229 seconds
+[2025-09-13T20:25:33.428+0000] {processor.py:186} INFO - Started process (PID=4664) to work on /opt/airflow/dags/phimville_pl.py
+[2025-09-13T20:25:33.430+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/phimville_pl.py for tasks to queue
+[2025-09-13T20:25:33.434+0000] {logging_mixin.py:190} INFO - [2025-09-13T20:25:33.433+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/phimville_pl.py
+[2025-09-13T20:25:33.612+0000] {processor.py:925} INFO - DAG(s) 'phimville_pl' retrieved from /opt/airflow/dags/phimville_pl.py
+[2025-09-13T20:25:33.632+0000] {logging_mixin.py:190} INFO - [2025-09-13T20:25:33.632+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2025-09-13T20:25:33.640+0000] {logging_mixin.py:190} INFO - [2025-09-13T20:25:33.640+0000] {dag.py:4138} INFO - Setting next_dagrun for phimville_pl to None, run_after=None
+[2025-09-13T20:25:33.650+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/phimville_pl.py took 0.232 seconds
+[2025-09-13T20:26:04.041+0000] {processor.py:186} INFO - Started process (PID=4686) to work on /opt/airflow/dags/phimville_pl.py
+[2025-09-13T20:26:04.043+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/phimville_pl.py for tasks to queue
+[2025-09-13T20:26:04.044+0000] {logging_mixin.py:190} INFO - [2025-09-13T20:26:04.044+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/phimville_pl.py
+[2025-09-13T20:26:04.221+0000] {processor.py:925} INFO - DAG(s) 'phimville_pl' retrieved from /opt/airflow/dags/phimville_pl.py
+[2025-09-13T20:26:04.238+0000] {logging_mixin.py:190} INFO - [2025-09-13T20:26:04.238+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2025-09-13T20:26:04.246+0000] {logging_mixin.py:190} INFO - [2025-09-13T20:26:04.246+0000] {dag.py:4138} INFO - Setting next_dagrun for phimville_pl to None, run_after=None
+[2025-09-13T20:26:04.345+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/phimville_pl.py took 0.309 seconds
+[2025-09-13T20:26:34.713+0000] {processor.py:186} INFO - Started process (PID=4708) to work on /opt/airflow/dags/phimville_pl.py
+[2025-09-13T20:26:34.714+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/phimville_pl.py for tasks to queue
+[2025-09-13T20:26:34.718+0000] {logging_mixin.py:190} INFO - [2025-09-13T20:26:34.717+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/phimville_pl.py
+[2025-09-13T20:26:34.891+0000] {processor.py:925} INFO - DAG(s) 'phimville_pl' retrieved from /opt/airflow/dags/phimville_pl.py
+[2025-09-13T20:26:34.908+0000] {logging_mixin.py:190} INFO - [2025-09-13T20:26:34.907+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2025-09-13T20:26:35.004+0000] {logging_mixin.py:190} INFO - [2025-09-13T20:26:35.004+0000] {dag.py:4138} INFO - Setting next_dagrun for phimville_pl to None, run_after=None
+[2025-09-13T20:26:35.012+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/phimville_pl.py took 0.306 seconds
+[2025-09-13T20:27:05.353+0000] {processor.py:186} INFO - Started process (PID=4730) to work on /opt/airflow/dags/phimville_pl.py
+[2025-09-13T20:27:05.354+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/phimville_pl.py for tasks to queue
+[2025-09-13T20:27:05.355+0000] {logging_mixin.py:190} INFO - [2025-09-13T20:27:05.355+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/phimville_pl.py
+[2025-09-13T20:27:05.507+0000] {processor.py:925} INFO - DAG(s) 'phimville_pl' retrieved from /opt/airflow/dags/phimville_pl.py
+[2025-09-13T20:27:05.526+0000] {logging_mixin.py:190} INFO - [2025-09-13T20:27:05.526+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2025-09-13T20:27:05.534+0000] {logging_mixin.py:190} INFO - [2025-09-13T20:27:05.534+0000] {dag.py:4138} INFO - Setting next_dagrun for phimville_pl to None, run_after=None
+[2025-09-13T20:27:05.543+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/phimville_pl.py took 0.199 seconds
+[2025-09-13T20:27:35.582+0000] {processor.py:186} INFO - Started process (PID=4752) to work on /opt/airflow/dags/phimville_pl.py
+[2025-09-13T20:27:35.583+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/phimville_pl.py for tasks to queue
+[2025-09-13T20:27:35.585+0000] {logging_mixin.py:190} INFO - [2025-09-13T20:27:35.585+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/phimville_pl.py
+[2025-09-13T20:27:35.749+0000] {processor.py:925} INFO - DAG(s) 'phimville_pl' retrieved from /opt/airflow/dags/phimville_pl.py
+[2025-09-13T20:27:35.766+0000] {logging_mixin.py:190} INFO - [2025-09-13T20:27:35.766+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2025-09-13T20:27:35.773+0000] {logging_mixin.py:190} INFO - [2025-09-13T20:27:35.773+0000] {dag.py:4138} INFO - Setting next_dagrun for phimville_pl to None, run_after=None
+[2025-09-13T20:27:35.781+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/phimville_pl.py took 0.208 seconds
+[2025-09-13T20:28:06.034+0000] {processor.py:186} INFO - Started process (PID=4774) to work on /opt/airflow/dags/phimville_pl.py
+[2025-09-13T20:28:06.036+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/phimville_pl.py for tasks to queue
+[2025-09-13T20:28:06.039+0000] {logging_mixin.py:190} INFO - [2025-09-13T20:28:06.038+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/phimville_pl.py
+[2025-09-13T20:28:06.204+0000] {processor.py:925} INFO - DAG(s) 'phimville_pl' retrieved from /opt/airflow/dags/phimville_pl.py
+[2025-09-13T20:28:06.220+0000] {logging_mixin.py:190} INFO - [2025-09-13T20:28:06.220+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2025-09-13T20:28:06.227+0000] {logging_mixin.py:190} INFO - [2025-09-13T20:28:06.227+0000] {dag.py:4138} INFO - Setting next_dagrun for phimville_pl to None, run_after=None
+[2025-09-13T20:28:06.235+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/phimville_pl.py took 0.208 seconds
+[2025-09-13T20:28:36.486+0000] {processor.py:186} INFO - Started process (PID=4796) to work on /opt/airflow/dags/phimville_pl.py
+[2025-09-13T20:28:36.488+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/phimville_pl.py for tasks to queue
+[2025-09-13T20:28:36.490+0000] {logging_mixin.py:190} INFO - [2025-09-13T20:28:36.489+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/phimville_pl.py
+[2025-09-13T20:28:36.676+0000] {processor.py:925} INFO - DAG(s) 'phimville_pl' retrieved from /opt/airflow/dags/phimville_pl.py
+[2025-09-13T20:28:36.696+0000] {logging_mixin.py:190} INFO - [2025-09-13T20:28:36.696+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2025-09-13T20:28:36.705+0000] {logging_mixin.py:190} INFO - [2025-09-13T20:28:36.705+0000] {dag.py:4138} INFO - Setting next_dagrun for phimville_pl to None, run_after=None
+[2025-09-13T20:28:36.804+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/phimville_pl.py took 0.325 seconds
+[2025-09-13T20:29:06.972+0000] {processor.py:186} INFO - Started process (PID=4818) to work on /opt/airflow/dags/phimville_pl.py
+[2025-09-13T20:29:06.973+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/phimville_pl.py for tasks to queue
+[2025-09-13T20:29:06.976+0000] {logging_mixin.py:190} INFO - [2025-09-13T20:29:06.976+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/phimville_pl.py
+[2025-09-13T20:29:07.155+0000] {processor.py:925} INFO - DAG(s) 'phimville_pl' retrieved from /opt/airflow/dags/phimville_pl.py
+[2025-09-13T20:29:07.173+0000] {logging_mixin.py:190} INFO - [2025-09-13T20:29:07.173+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2025-09-13T20:29:07.265+0000] {logging_mixin.py:190} INFO - [2025-09-13T20:29:07.264+0000] {dag.py:4138} INFO - Setting next_dagrun for phimville_pl to None, run_after=None
+[2025-09-13T20:29:07.273+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/phimville_pl.py took 0.309 seconds
+[2025-09-13T20:29:37.362+0000] {processor.py:186} INFO - Started process (PID=4840) to work on /opt/airflow/dags/phimville_pl.py
+[2025-09-13T20:29:37.363+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/phimville_pl.py for tasks to queue
+[2025-09-13T20:29:37.365+0000] {logging_mixin.py:190} INFO - [2025-09-13T20:29:37.364+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/phimville_pl.py
+[2025-09-13T20:29:37.557+0000] {processor.py:925} INFO - DAG(s) 'phimville_pl' retrieved from /opt/airflow/dags/phimville_pl.py
+[2025-09-13T20:29:37.583+0000] {logging_mixin.py:190} INFO - [2025-09-13T20:29:37.582+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2025-09-13T20:29:37.687+0000] {logging_mixin.py:190} INFO - [2025-09-13T20:29:37.687+0000] {dag.py:4138} INFO - Setting next_dagrun for phimville_pl to None, run_after=None
+[2025-09-13T20:29:37.695+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/phimville_pl.py took 0.337 seconds
+[2025-09-13T20:30:08.028+0000] {processor.py:186} INFO - Started process (PID=4862) to work on /opt/airflow/dags/phimville_pl.py
+[2025-09-13T20:30:08.037+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/phimville_pl.py for tasks to queue
+[2025-09-13T20:30:08.046+0000] {logging_mixin.py:190} INFO - [2025-09-13T20:30:08.045+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/phimville_pl.py
+[2025-09-13T20:30:08.231+0000] {processor.py:925} INFO - DAG(s) 'phimville_pl' retrieved from /opt/airflow/dags/phimville_pl.py
+[2025-09-13T20:30:08.249+0000] {logging_mixin.py:190} INFO - [2025-09-13T20:30:08.249+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2025-09-13T20:30:08.257+0000] {logging_mixin.py:190} INFO - [2025-09-13T20:30:08.257+0000] {dag.py:4138} INFO - Setting next_dagrun for phimville_pl to None, run_after=None
+[2025-09-13T20:30:08.266+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/phimville_pl.py took 0.246 seconds
+[2025-09-13T20:30:38.721+0000] {processor.py:186} INFO - Started process (PID=4884) to work on /opt/airflow/dags/phimville_pl.py
+[2025-09-13T20:30:38.724+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/phimville_pl.py for tasks to queue
+[2025-09-13T20:30:38.727+0000] {logging_mixin.py:190} INFO - [2025-09-13T20:30:38.726+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/phimville_pl.py
+[2025-09-13T20:30:38.895+0000] {processor.py:925} INFO - DAG(s) 'phimville_pl' retrieved from /opt/airflow/dags/phimville_pl.py
+[2025-09-13T20:30:38.911+0000] {logging_mixin.py:190} INFO - [2025-09-13T20:30:38.911+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2025-09-13T20:30:38.918+0000] {logging_mixin.py:190} INFO - [2025-09-13T20:30:38.918+0000] {dag.py:4138} INFO - Setting next_dagrun for phimville_pl to None, run_after=None
+[2025-09-13T20:30:38.926+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/phimville_pl.py took 0.212 seconds
+[2025-09-13T20:31:09.450+0000] {processor.py:186} INFO - Started process (PID=4906) to work on /opt/airflow/dags/phimville_pl.py
+[2025-09-13T20:31:09.452+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/phimville_pl.py for tasks to queue
+[2025-09-13T20:31:09.453+0000] {logging_mixin.py:190} INFO - [2025-09-13T20:31:09.453+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/phimville_pl.py
+[2025-09-13T20:31:09.640+0000] {processor.py:925} INFO - DAG(s) 'phimville_pl' retrieved from /opt/airflow/dags/phimville_pl.py
+[2025-09-13T20:31:09.656+0000] {logging_mixin.py:190} INFO - [2025-09-13T20:31:09.656+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2025-09-13T20:31:09.663+0000] {logging_mixin.py:190} INFO - [2025-09-13T20:31:09.663+0000] {dag.py:4138} INFO - Setting next_dagrun for phimville_pl to None, run_after=None
+[2025-09-13T20:31:09.672+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/phimville_pl.py took 0.231 seconds
+[2025-09-13T20:31:39.913+0000] {processor.py:186} INFO - Started process (PID=4928) to work on /opt/airflow/dags/phimville_pl.py
+[2025-09-13T20:31:39.914+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/phimville_pl.py for tasks to queue
+[2025-09-13T20:31:39.915+0000] {logging_mixin.py:190} INFO - [2025-09-13T20:31:39.915+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/phimville_pl.py
+[2025-09-13T20:31:40.327+0000] {processor.py:925} INFO - DAG(s) 'phimville_pl' retrieved from /opt/airflow/dags/phimville_pl.py
+[2025-09-13T20:31:40.363+0000] {logging_mixin.py:190} INFO - [2025-09-13T20:31:40.362+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2025-09-13T20:31:40.374+0000] {logging_mixin.py:190} INFO - [2025-09-13T20:31:40.374+0000] {dag.py:4138} INFO - Setting next_dagrun for phimville_pl to None, run_after=None
+[2025-09-13T20:31:40.524+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/phimville_pl.py took 0.617 seconds
+[2025-09-13T20:32:10.668+0000] {processor.py:186} INFO - Started process (PID=4950) to work on /opt/airflow/dags/phimville_pl.py
+[2025-09-13T20:32:10.669+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/phimville_pl.py for tasks to queue
+[2025-09-13T20:32:10.670+0000] {logging_mixin.py:190} INFO - [2025-09-13T20:32:10.670+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/phimville_pl.py
+[2025-09-13T20:32:10.852+0000] {processor.py:925} INFO - DAG(s) 'phimville_pl' retrieved from /opt/airflow/dags/phimville_pl.py
+[2025-09-13T20:32:10.878+0000] {logging_mixin.py:190} INFO - [2025-09-13T20:32:10.877+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2025-09-13T20:32:11.015+0000] {logging_mixin.py:190} INFO - [2025-09-13T20:32:11.015+0000] {dag.py:4138} INFO - Setting next_dagrun for phimville_pl to None, run_after=None
+[2025-09-13T20:32:11.025+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/phimville_pl.py took 0.363 seconds
+[2025-09-13T20:32:41.114+0000] {processor.py:186} INFO - Started process (PID=5060) to work on /opt/airflow/dags/phimville_pl.py
+[2025-09-13T20:32:41.115+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/phimville_pl.py for tasks to queue
+[2025-09-13T20:32:41.116+0000] {logging_mixin.py:190} INFO - [2025-09-13T20:32:41.116+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/phimville_pl.py
+[2025-09-13T20:32:41.278+0000] {processor.py:925} INFO - DAG(s) 'phimville_pl' retrieved from /opt/airflow/dags/phimville_pl.py
+[2025-09-13T20:32:41.388+0000] {logging_mixin.py:190} INFO - [2025-09-13T20:32:41.388+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2025-09-13T20:32:41.395+0000] {logging_mixin.py:190} INFO - [2025-09-13T20:32:41.395+0000] {dag.py:4138} INFO - Setting next_dagrun for phimville_pl to None, run_after=None
+[2025-09-13T20:32:41.403+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/phimville_pl.py took 0.297 seconds
+[2025-09-13T20:33:11.527+0000] {processor.py:186} INFO - Started process (PID=5082) to work on /opt/airflow/dags/phimville_pl.py
+[2025-09-13T20:33:11.528+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/phimville_pl.py for tasks to queue
+[2025-09-13T20:33:11.529+0000] {logging_mixin.py:190} INFO - [2025-09-13T20:33:11.529+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/phimville_pl.py
+[2025-09-13T20:33:11.675+0000] {processor.py:925} INFO - DAG(s) 'phimville_pl' retrieved from /opt/airflow/dags/phimville_pl.py
+[2025-09-13T20:33:11.690+0000] {logging_mixin.py:190} INFO - [2025-09-13T20:33:11.689+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2025-09-13T20:33:11.696+0000] {logging_mixin.py:190} INFO - [2025-09-13T20:33:11.696+0000] {dag.py:4138} INFO - Setting next_dagrun for phimville_pl to None, run_after=None
+[2025-09-13T20:33:11.703+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/phimville_pl.py took 0.181 seconds
+[2025-09-13T20:33:41.963+0000] {processor.py:186} INFO - Started process (PID=5104) to work on /opt/airflow/dags/phimville_pl.py
+[2025-09-13T20:33:41.964+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/phimville_pl.py for tasks to queue
+[2025-09-13T20:33:41.966+0000] {logging_mixin.py:190} INFO - [2025-09-13T20:33:41.965+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/phimville_pl.py
+[2025-09-13T20:33:42.133+0000] {processor.py:925} INFO - DAG(s) 'phimville_pl' retrieved from /opt/airflow/dags/phimville_pl.py
+[2025-09-13T20:33:42.148+0000] {logging_mixin.py:190} INFO - [2025-09-13T20:33:42.147+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2025-09-13T20:33:42.155+0000] {logging_mixin.py:190} INFO - [2025-09-13T20:33:42.155+0000] {dag.py:4138} INFO - Setting next_dagrun for phimville_pl to None, run_after=None
+[2025-09-13T20:33:42.163+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/phimville_pl.py took 0.208 seconds
+[2025-09-13T20:34:12.308+0000] {processor.py:186} INFO - Started process (PID=5123) to work on /opt/airflow/dags/phimville_pl.py
+[2025-09-13T20:34:12.312+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/phimville_pl.py for tasks to queue
+[2025-09-13T20:34:12.316+0000] {logging_mixin.py:190} INFO - [2025-09-13T20:34:12.315+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/phimville_pl.py
+[2025-09-13T20:34:12.610+0000] {processor.py:925} INFO - DAG(s) 'phimville_pl' retrieved from /opt/airflow/dags/phimville_pl.py
+[2025-09-13T20:34:12.632+0000] {logging_mixin.py:190} INFO - [2025-09-13T20:34:12.632+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2025-09-13T20:34:12.642+0000] {logging_mixin.py:190} INFO - [2025-09-13T20:34:12.642+0000] {dag.py:4138} INFO - Setting next_dagrun for phimville_pl to None, run_after=None
+[2025-09-13T20:34:12.657+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/phimville_pl.py took 0.360 seconds
