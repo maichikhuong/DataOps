@@ -4,9 +4,9 @@ import time
 from datetime import datetime
 from zoneinfo import ZoneInfo
 
-def request_ohlcv_full_load(exchange, pair_id, start_date="2024-01-01T00:00:00Z"):
+def request_ohlcv_full_load(exchange, pair_id, start_date="2023-01-01T00:00:00Z"):
     since = int(exchange.parse8601(start_date))
-    limit = 1000
+    limit = 1_000
     response = exchange.fetch_ohlcv(pair_id, timeframe="1d", since=since, limit=limit)
     return response
 

@@ -3,12 +3,13 @@ warnings.filterwarnings('ignore')
 import os
 import sys
 
-from airflow.decorators import dag, task 
+from airflow.decorators import dag, task
+from airflow.utils.task_group import TaskGroup
 from datetime import datetime, timedelta
-import pendulum
 from airflow import DAG 
 from airflow.operators.bash import BashOperator
 from airflow.operators.python import PythonOperator
+
 
 
 ## import key connect to duckdb
@@ -18,7 +19,7 @@ from connection_params import duckdb_token
 sys.path.insert(0, 'DataOps/data-pipelines/stock/py-files')
 from call_get_data_full_load import get_data_full_load
 sys.path.insert(0, 'DataOps/data-pipelines/stock/common')
-from utils import create_insert_table
+from utils import drop_table, create_insert_table
 
 default_args = {
     'owner': 'Khuong',  
@@ -35,16 +36,22 @@ default_args = {
     tags = ['binance stock', 'mlops']
      )
 def etl_pipeline():
+    with TaskGroup(group_id="etl_group") as etl_group:
+        @task
+        def drop_data(ti):
+            drop_table()
 
-    @task
-    def get_data(ti):
-        ti.xcom_push(key = 'stock_data', value = get_data_full_load())
-        
-    @task
-    def create_insert_data(ti):
-        create_insert_table(ti.xcom_pull(task_ids = 'get_data', key = 'stock_data'))
-        
-    get_data() >> create_insert_data()
+        @task
+        def get_data(ti):
+            ti.xcom_push(key = 'stock_data', value = get_data_full_load())
+            
+        @task
+        def create_insert_data(ti):
+            create_insert_table(ti.xcom_pull(task_ids = 'etl_group.get_data', key = 'stock_data'))
+            
+        drop_data() >> get_data() >> create_insert_data()
+    
+    etl_group
 
 dag = etl_pipeline()
 

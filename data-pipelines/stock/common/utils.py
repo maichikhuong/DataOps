@@ -9,6 +9,25 @@ sys.path.append('../../..')
 from connection_params import *
 # initiate the MotherDuck connection through a service token through
 
+def drop_table():
+    try:
+        conn = duckdb.connect(f"md:my_db?motherduck_token={duckdb_token}")
+        cur = conn.cursor()
+        print("Connect DuckDB Successfully!")
+    except TypeError as e:
+        print(e)
+    
+    try:
+        conn.sql(f"""DROP TABLE IF EXISTS my_db.main.BINANCE""")
+        print("Drop Data Successfully!")
+    except Exception as e:
+        print(e)
+    
+    finally:
+        cur.close()
+        conn.close()
+
+
 def create_insert_table(value):
     try:
         conn = duckdb.connect(f"md:my_db?motherduck_token={duckdb_token}")
@@ -33,10 +52,8 @@ def create_insert_table(value):
             record = tuple(record)
             conn.sql(f"""INSERT INTO BINANCE VALUES {record}""")
         print("Create and Insert Data Successfully!")
-
     except Exception as e:
         print(e)
-    
     finally:
         cur.close()
         conn.close()

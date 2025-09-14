@@ -3,9 +3,9 @@ warnings.filterwarnings('ignore')
 import os
 import sys
 
-from airflow.decorators import dag, task 
+from airflow.decorators import dag, task
+from airflow.utils.task_group import TaskGroup
 from datetime import datetime, timedelta
-import pendulum
 from airflow import DAG 
 from airflow.operators.bash import BashOperator
 from airflow.operators.python import PythonOperator
@@ -35,16 +35,18 @@ default_args = {
     tags = ['binance stock', 'mlops']
      )
 def etl_pipeline():
-
-    @task
-    def get_data(ti):
-        ti.xcom_push(key = 'stock_data', value = get_data_daily())
-        
-    @task
-    def create_insert_data(ti):
-        create_insert_table(ti.xcom_pull(task_ids = 'get_data', key = 'stock_data'))
-        
-    get_data() >> create_insert_data()
+    with TaskGroup(group_id="etl_group") as etl_group:
+        @task
+        def get_data(ti):
+            ti.xcom_push(key = 'stock_data', value = get_data_daily())
+            
+        @task
+        def create_insert_data(ti):
+            create_insert_table(ti.xcom_pull(task_ids = 'etl_group.get_data', key = 'stock_data'))
+            
+        get_data() >> create_insert_data()
+    
+    etl_group
 
 dag = etl_pipeline()
 
