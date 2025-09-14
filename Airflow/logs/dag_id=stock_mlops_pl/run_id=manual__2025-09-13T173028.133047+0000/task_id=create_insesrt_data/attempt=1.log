@@ -1,0 +1,20 @@
+[2025-09-13T17:30:33.518+0000] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2025-09-13T17:30:33.551+0000] {taskinstance.py:2603} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: stock_mlops_pl.create_insesrt_data manual__2025-09-13T17:30:28.133047+00:00 [queued]>
+[2025-09-13T17:30:33.560+0000] {taskinstance.py:2603} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: stock_mlops_pl.create_insesrt_data manual__2025-09-13T17:30:28.133047+00:00 [queued]>
+[2025-09-13T17:30:33.561+0000] {taskinstance.py:2856} INFO - Starting attempt 1 of 6
+[2025-09-13T17:30:33.571+0000] {taskinstance.py:2879} INFO - Executing <Task(_PythonDecoratedOperator): create_insesrt_data> on 2025-09-13 17:30:28.133047+00:00
+[2025-09-13T17:30:33.580+0000] {standard_task_runner.py:72} INFO - Started process 6902 to run task
+[2025-09-13T17:30:33.583+0000] {standard_task_runner.py:104} INFO - Running: ['***', 'tasks', 'run', 'stock_mlops_pl', 'create_insesrt_data', 'manual__2025-09-13T17:30:28.133047+00:00', '--job-id', '30', '--raw', '--subdir', 'DAGS_FOLDER/stock_mlops_pl.py', '--cfg-path', '/tmp/tmp6go2w9kk']
+[2025-09-13T17:30:33.585+0000] {standard_task_runner.py:105} INFO - Job 30: Subtask create_insesrt_data
+[2025-09-13T17:30:33.687+0000] {task_command.py:467} INFO - Running <TaskInstance: stock_mlops_pl.create_insesrt_data manual__2025-09-13T17:30:28.133047+00:00 [running]> on host 2b9240d99b24
+[2025-09-13T17:30:33.820+0000] {taskinstance.py:3122} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='Khuong' AIRFLOW_CTX_DAG_ID='stock_mlops_pl' AIRFLOW_CTX_TASK_ID='create_insesrt_data' AIRFLOW_CTX_EXECUTION_DATE='2025-09-13T17:30:28.133047+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2025-09-13T17:30:28.133047+00:00'
+[2025-09-13T17:30:33.821+0000] {taskinstance.py:731} INFO - ::endgroup::
+[2025-09-13T17:30:33.849+0000] {logging_mixin.py:190} INFO - [['NEAR/USDT', '2025-09-13 17:26:00', '2.794', '2.795', '2.792', '2.793', '6021.1'], ['NEAR/USDT', '2025-09-13 17:27:00', '2.794', '2.797', '2.794', '2.796', '3035.7'], ['NEAR/USDT', '2025-09-13 17:28:00', '2.796', '2.797', '2.794', '2.794', '10181.3'], ['NEAR/USDT', '2025-09-13 17:29:00', '2.793', '2.794', '2.792', '2.792', '4368.3'], ['NEAR/USDT', '2025-09-13 17:30:00', '2.792', '2.793', '2.791', '2.793', '1774.8']]
+[2025-09-13T17:30:36.025+0000] {logging_mixin.py:190} INFO - Connect DuckDB Successfully!
+[2025-09-13T17:30:37.093+0000] {logging_mixin.py:190} INFO - Parser Error: syntax error at or near "["
+[2025-09-13T17:30:37.094+0000] {python.py:240} INFO - Done. Returned value was: None
+[2025-09-13T17:30:37.121+0000] {taskinstance.py:340} INFO - ::group::Post task execution logs
+[2025-09-13T17:30:37.122+0000] {taskinstance.py:352} INFO - Marking task as SUCCESS. dag_id=stock_mlops_pl, task_id=create_insesrt_data, run_id=manual__2025-09-13T17:30:28.133047+00:00, execution_date=20250913T173028, start_date=20250913T173033, end_date=20250913T173037
+[2025-09-13T17:30:37.173+0000] {local_task_job_runner.py:261} INFO - Task exited with return code 0
+[2025-09-13T17:30:37.206+0000] {taskinstance.py:3891} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2025-09-13T17:30:37.209+0000] {local_task_job_runner.py:240} INFO - ::endgroup::

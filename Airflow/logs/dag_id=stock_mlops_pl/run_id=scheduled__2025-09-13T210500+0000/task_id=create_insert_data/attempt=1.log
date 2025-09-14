@@ -1,0 +1,19 @@
+[2025-09-13T21:10:05.434+0000] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2025-09-13T21:10:05.464+0000] {taskinstance.py:2603} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: stock_mlops_pl.create_insert_data scheduled__2025-09-13T21:05:00+00:00 [queued]>
+[2025-09-13T21:10:05.470+0000] {taskinstance.py:2603} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: stock_mlops_pl.create_insert_data scheduled__2025-09-13T21:05:00+00:00 [queued]>
+[2025-09-13T21:10:05.471+0000] {taskinstance.py:2856} INFO - Starting attempt 1 of 6
+[2025-09-13T21:10:05.480+0000] {taskinstance.py:2879} INFO - Executing <Task(_PythonDecoratedOperator): create_insert_data> on 2025-09-13 21:05:00+00:00
+[2025-09-13T21:10:05.488+0000] {standard_task_runner.py:72} INFO - Started process 1216 to run task
+[2025-09-13T21:10:05.491+0000] {standard_task_runner.py:104} INFO - Running: ['***', 'tasks', 'run', 'stock_mlops_pl', 'create_insert_data', 'scheduled__2025-09-13T21:05:00+00:00', '--job-id', '86', '--raw', '--subdir', 'DAGS_FOLDER/stock_mlops_pl.py', '--cfg-path', '/tmp/tmpp_ldjhia']
+[2025-09-13T21:10:05.495+0000] {standard_task_runner.py:105} INFO - Job 86: Subtask create_insert_data
+[2025-09-13T21:10:05.592+0000] {task_command.py:467} INFO - Running <TaskInstance: stock_mlops_pl.create_insert_data scheduled__2025-09-13T21:05:00+00:00 [running]> on host 3a02a95ee454
+[2025-09-13T21:10:05.730+0000] {taskinstance.py:3122} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='Khuong' AIRFLOW_CTX_DAG_ID='stock_mlops_pl' AIRFLOW_CTX_TASK_ID='create_insert_data' AIRFLOW_CTX_EXECUTION_DATE='2025-09-13T21:05:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2025-09-13T21:05:00+00:00'
+[2025-09-13T21:10:05.732+0000] {taskinstance.py:731} INFO - ::endgroup::
+[2025-09-13T21:10:10.621+0000] {logging_mixin.py:190} INFO - Connect DuckDB Successfully!
+[2025-09-13T21:10:12.689+0000] {logging_mixin.py:190} INFO - Create and Insert Data Successfully!
+[2025-09-13T21:10:12.690+0000] {python.py:240} INFO - Done. Returned value was: None
+[2025-09-13T21:10:12.714+0000] {taskinstance.py:340} INFO - ::group::Post task execution logs
+[2025-09-13T21:10:12.715+0000] {taskinstance.py:352} INFO - Marking task as SUCCESS. dag_id=stock_mlops_pl, task_id=create_insert_data, run_id=scheduled__2025-09-13T21:05:00+00:00, execution_date=20250913T210500, start_date=20250913T211005, end_date=20250913T211012
+[2025-09-13T21:10:12.779+0000] {local_task_job_runner.py:261} INFO - Task exited with return code 0
+[2025-09-13T21:10:12.811+0000] {taskinstance.py:3891} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2025-09-13T21:10:12.822+0000] {local_task_job_runner.py:240} INFO - ::endgroup::

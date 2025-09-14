@@ -1,0 +1,18 @@
+[2025-09-13T18:11:30.753+0000] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2025-09-13T18:11:30.784+0000] {taskinstance.py:2603} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: stock_mlops_pl.get_data manual__2025-09-13T18:11:28.860191+00:00 [queued]>
+[2025-09-13T18:11:30.792+0000] {taskinstance.py:2603} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: stock_mlops_pl.get_data manual__2025-09-13T18:11:28.860191+00:00 [queued]>
+[2025-09-13T18:11:30.793+0000] {taskinstance.py:2856} INFO - Starting attempt 1 of 6
+[2025-09-13T18:11:30.805+0000] {taskinstance.py:2879} INFO - Executing <Task(_PythonDecoratedOperator): get_data> on 2025-09-13 18:11:28.860191+00:00
+[2025-09-13T18:11:30.812+0000] {standard_task_runner.py:72} INFO - Started process 230 to run task
+[2025-09-13T18:11:30.815+0000] {standard_task_runner.py:104} INFO - Running: ['***', 'tasks', 'run', 'stock_mlops_pl', 'get_data', 'manual__2025-09-13T18:11:28.860191+00:00', '--job-id', '49', '--raw', '--subdir', 'DAGS_FOLDER/stock_mlops_pl.py', '--cfg-path', '/tmp/tmp3egggyi_']
+[2025-09-13T18:11:30.818+0000] {standard_task_runner.py:105} INFO - Job 49: Subtask get_data
+[2025-09-13T18:11:30.935+0000] {task_command.py:467} INFO - Running <TaskInstance: stock_mlops_pl.get_data manual__2025-09-13T18:11:28.860191+00:00 [running]> on host 58cb5991ea36
+[2025-09-13T18:11:31.089+0000] {taskinstance.py:3122} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='Khuong' AIRFLOW_CTX_DAG_ID='stock_mlops_pl' AIRFLOW_CTX_TASK_ID='get_data' AIRFLOW_CTX_EXECUTION_DATE='2025-09-13T18:11:28.860191+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2025-09-13T18:11:28.860191+00:00'
+[2025-09-13T18:11:31.092+0000] {taskinstance.py:731} INFO - ::endgroup::
+[2025-09-13T18:11:36.358+0000] {logging_mixin.py:190} INFO - [('NEAR/USDT', '2025-09-13 18:07:00', '2.796', '2.797', '2.793', '2.793', '1642.9'), ('NEAR/USDT', '2025-09-13 18:08:00', '2.793', '2.795', '2.792', '2.795', '7840.3'), ('NEAR/USDT', '2025-09-13 18:09:00', '2.796', '2.798', '2.796', '2.798', '3880.4'), ('NEAR/USDT', '2025-09-13 18:10:00', '2.798', '2.799', '2.798', '2.799', '2989.0'), ('NEAR/USDT', '2025-09-13 18:11:00', '2.799', '2.799', '2.799', '2.799', '482.5')]
+[2025-09-13T18:11:36.391+0000] {python.py:240} INFO - Done. Returned value was: None
+[2025-09-13T18:11:36.576+0000] {taskinstance.py:340} INFO - ::group::Post task execution logs
+[2025-09-13T18:11:36.577+0000] {taskinstance.py:352} INFO - Marking task as SUCCESS. dag_id=stock_mlops_pl, task_id=get_data, run_id=manual__2025-09-13T18:11:28.860191+00:00, execution_date=20250913T181128, start_date=20250913T181130, end_date=20250913T181136
+[2025-09-13T18:11:36.652+0000] {local_task_job_runner.py:261} INFO - Task exited with return code 0
+[2025-09-13T18:11:36.687+0000] {taskinstance.py:3891} INFO - 1 downstream tasks scheduled from follow-on schedule check
+[2025-09-13T18:11:36.691+0000] {local_task_job_runner.py:240} INFO - ::endgroup::
