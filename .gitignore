@@ -1,0 +1,7 @@
+# .gitignore
+__pycache__
+# Airflow/config/
+# Airflow/logs/
+# Airflow/pgdata/
+dataops_env/
+# connection_params.py
