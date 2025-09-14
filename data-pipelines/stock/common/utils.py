@@ -2,6 +2,7 @@ import warnings
 warnings.filterwarnings('ignore')
 import os
 import sys
+import logging
 import duckdb
 import pandas as pd
 sys.path.append('../../..')
@@ -39,3 +40,4 @@ def create_insert_table(value):
     finally:
         cur.close()
         conn.close()
+        
