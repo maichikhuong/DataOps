@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Admin/Documents/DataScience/DataOps/MLOps/modeling/stock_model/mlflow/696107119862965157/bc55045b09564312ba9d9d6369d0b0a2/artifacts
+end_time: 1757959993200
+entry_point_name: ''
+experiment_id: '696107119862965157'
+lifecycle_stage: active
+run_id: bc55045b09564312ba9d9d6369d0b0a2
+run_name: stock_model_demo
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757959990314
+status: 3
+tags: []
+user_id: Admin
