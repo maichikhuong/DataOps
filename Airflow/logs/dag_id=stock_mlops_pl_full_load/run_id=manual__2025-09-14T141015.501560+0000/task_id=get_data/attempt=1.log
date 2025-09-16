@@ -1,0 +1,17 @@
+[2025-09-14T14:10:28.353+0000] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2025-09-14T14:10:28.391+0000] {taskinstance.py:2603} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: stock_mlops_pl_full_load.get_data manual__2025-09-14T14:10:15.501560+00:00 [queued]>
+[2025-09-14T14:10:28.398+0000] {taskinstance.py:2603} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: stock_mlops_pl_full_load.get_data manual__2025-09-14T14:10:15.501560+00:00 [queued]>
+[2025-09-14T14:10:28.399+0000] {taskinstance.py:2856} INFO - Starting attempt 1 of 6
+[2025-09-14T14:10:28.409+0000] {taskinstance.py:2879} INFO - Executing <Task(_PythonDecoratedOperator): get_data> on 2025-09-14 14:10:15.501560+00:00
+[2025-09-14T14:10:28.417+0000] {standard_task_runner.py:72} INFO - Started process 20484 to run task
+[2025-09-14T14:10:28.421+0000] {standard_task_runner.py:104} INFO - Running: ['***', 'tasks', 'run', 'stock_mlops_pl_full_load', 'get_data', 'manual__2025-09-14T14:10:15.501560+00:00', '--job-id', '334', '--raw', '--subdir', 'DAGS_FOLDER/stock_pl_full_load.py', '--cfg-path', '/tmp/tmpwk0tm1cf']
+[2025-09-14T14:10:28.423+0000] {standard_task_runner.py:105} INFO - Job 334: Subtask get_data
+[2025-09-14T14:10:28.528+0000] {task_command.py:467} INFO - Running <TaskInstance: stock_mlops_pl_full_load.get_data manual__2025-09-14T14:10:15.501560+00:00 [running]> on host 7c4a8787553d
+[2025-09-14T14:10:28.675+0000] {taskinstance.py:3122} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='Khuong' AIRFLOW_CTX_DAG_ID='stock_mlops_pl_full_load' AIRFLOW_CTX_TASK_ID='get_data' AIRFLOW_CTX_EXECUTION_DATE='2025-09-14T14:10:15.501560+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2025-09-14T14:10:15.501560+00:00'
+[2025-09-14T14:10:28.677+0000] {taskinstance.py:731} INFO - ::endgroup::
+[2025-09-14T14:10:31.161+0000] {python.py:240} INFO - Done. Returned value was: None
+[2025-09-14T14:10:31.186+0000] {taskinstance.py:340} INFO - ::group::Post task execution logs
+[2025-09-14T14:10:31.187+0000] {taskinstance.py:352} INFO - Marking task as SUCCESS. dag_id=stock_mlops_pl_full_load, task_id=get_data, run_id=manual__2025-09-14T14:10:15.501560+00:00, execution_date=20250914T141015, start_date=20250914T141028, end_date=20250914T141031
+[2025-09-14T14:10:31.246+0000] {local_task_job_runner.py:261} INFO - Task exited with return code 0
+[2025-09-14T14:10:31.286+0000] {taskinstance.py:3891} INFO - 1 downstream tasks scheduled from follow-on schedule check
+[2025-09-14T14:10:31.290+0000] {local_task_job_runner.py:240} INFO - ::endgroup::

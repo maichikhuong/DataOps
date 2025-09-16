@@ -2,6 +2,6 @@
 __pycache__
 # Airflow/config/
 # Airflow/logs/
-# Airflow/pgdata/
+Airflow/pgdata/
 dataops_env/
 # connection_params.py
