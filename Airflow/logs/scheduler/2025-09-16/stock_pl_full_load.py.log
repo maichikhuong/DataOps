@@ -14419,3 +14419,17 @@ ccxt.base.errors.NetworkError: binance GET https://fapi.binance.com/fapi/v1/exch
 [2025-09-16T19:04:24.535+0000] {logging_mixin.py:190} INFO - [2025-09-16T19:04:24.535+0000] {dag.py:3211} INFO - Sync 1 DAGs
 [2025-09-16T19:04:24.548+0000] {logging_mixin.py:190} INFO - [2025-09-16T19:04:24.547+0000] {dag.py:4138} INFO - Setting next_dagrun for stock_mlops_pl_full_load to None, run_after=None
 [2025-09-16T19:04:24.572+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/stock_pl_full_load.py took 2.634 seconds
+[2025-09-16T19:04:54.825+0000] {processor.py:186} INFO - Started process (PID=529) to work on /opt/airflow/dags/stock_pl_full_load.py
+[2025-09-16T19:04:54.826+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/stock_pl_full_load.py for tasks to queue
+[2025-09-16T19:04:54.829+0000] {logging_mixin.py:190} INFO - [2025-09-16T19:04:54.829+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/stock_pl_full_load.py
+[2025-09-16T19:04:58.059+0000] {processor.py:925} INFO - DAG(s) 'stock_mlops_pl_full_load' retrieved from /opt/airflow/dags/stock_pl_full_load.py
+[2025-09-16T19:04:58.096+0000] {logging_mixin.py:190} INFO - [2025-09-16T19:04:58.095+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2025-09-16T19:04:58.114+0000] {logging_mixin.py:190} INFO - [2025-09-16T19:04:58.114+0000] {dag.py:4138} INFO - Setting next_dagrun for stock_mlops_pl_full_load to None, run_after=None
+[2025-09-16T19:04:58.152+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/stock_pl_full_load.py took 3.333 seconds
+[2025-09-16T19:05:28.261+0000] {processor.py:186} INFO - Started process (PID=560) to work on /opt/airflow/dags/stock_pl_full_load.py
+[2025-09-16T19:05:28.262+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/stock_pl_full_load.py for tasks to queue
+[2025-09-16T19:05:28.264+0000] {logging_mixin.py:190} INFO - [2025-09-16T19:05:28.264+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/stock_pl_full_load.py
+[2025-09-16T19:05:31.456+0000] {processor.py:925} INFO - DAG(s) 'stock_mlops_pl_full_load' retrieved from /opt/airflow/dags/stock_pl_full_load.py
+[2025-09-16T19:05:31.487+0000] {logging_mixin.py:190} INFO - [2025-09-16T19:05:31.487+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2025-09-16T19:05:31.501+0000] {logging_mixin.py:190} INFO - [2025-09-16T19:05:31.501+0000] {dag.py:4138} INFO - Setting next_dagrun for stock_mlops_pl_full_load to None, run_after=None
+[2025-09-16T19:05:31.526+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/stock_pl_full_load.py took 3.270 seconds

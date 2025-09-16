@@ -15759,3 +15759,17 @@ sqlalchemy.exc.OperationalError: (psycopg2.OperationalError) connection to serve
 [2025-09-16T19:04:31.567+0000] {logging_mixin.py:190} INFO - [2025-09-16T19:04:31.567+0000] {dag.py:3211} INFO - Sync 1 DAGs
 [2025-09-16T19:04:31.582+0000] {logging_mixin.py:190} INFO - [2025-09-16T19:04:31.582+0000] {dag.py:4138} INFO - Setting next_dagrun for our_first_dag to None, run_after=None
 [2025-09-16T19:04:31.608+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/our_first_dag.py took 0.093 seconds
+[2025-09-16T19:05:02.072+0000] {processor.py:186} INFO - Started process (PID=542) to work on /opt/airflow/dags/our_first_dag.py
+[2025-09-16T19:05:02.073+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/our_first_dag.py for tasks to queue
+[2025-09-16T19:05:02.076+0000] {logging_mixin.py:190} INFO - [2025-09-16T19:05:02.075+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/our_first_dag.py
+[2025-09-16T19:05:02.093+0000] {processor.py:925} INFO - DAG(s) 'our_first_dag' retrieved from /opt/airflow/dags/our_first_dag.py
+[2025-09-16T19:05:02.133+0000] {logging_mixin.py:190} INFO - [2025-09-16T19:05:02.132+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2025-09-16T19:05:02.149+0000] {logging_mixin.py:190} INFO - [2025-09-16T19:05:02.149+0000] {dag.py:4138} INFO - Setting next_dagrun for our_first_dag to None, run_after=None
+[2025-09-16T19:05:02.176+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/our_first_dag.py took 0.109 seconds
+[2025-09-16T19:05:32.304+0000] {processor.py:186} INFO - Started process (PID=573) to work on /opt/airflow/dags/our_first_dag.py
+[2025-09-16T19:05:32.305+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/our_first_dag.py for tasks to queue
+[2025-09-16T19:05:32.308+0000] {logging_mixin.py:190} INFO - [2025-09-16T19:05:32.308+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/our_first_dag.py
+[2025-09-16T19:05:32.322+0000] {processor.py:925} INFO - DAG(s) 'our_first_dag' retrieved from /opt/airflow/dags/our_first_dag.py
+[2025-09-16T19:05:32.354+0000] {logging_mixin.py:190} INFO - [2025-09-16T19:05:32.354+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2025-09-16T19:05:32.371+0000] {logging_mixin.py:190} INFO - [2025-09-16T19:05:32.371+0000] {dag.py:4138} INFO - Setting next_dagrun for our_first_dag to None, run_after=None
+[2025-09-16T19:05:32.397+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/our_first_dag.py took 0.098 seconds
