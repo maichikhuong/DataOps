@@ -1,0 +1,4 @@
+Airflow/logs/
+Airflow/pgdata/
+dataops_env/
+connection_params.py
