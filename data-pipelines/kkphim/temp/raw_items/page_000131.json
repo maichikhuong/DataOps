@@ -1,0 +1,131 @@
+{
+    "status": true,
+    "items": [
+        {
+            "modified": {
+                "time": "2024-11-06T12:25:37.000Z"
+            },
+            "_id": "fe4e2a8a9740bc9311616fc08781fcf9",
+            "name": "Oktoberfest: M\u00e1u v\u00e0 bia",
+            "slug": "oktoberfest-mau-va-bia",
+            "origin_name": "Oktoberfest: Beer and Blood",
+            "poster_url": "https://phimimg.com/upload/vod/20241106-1/2dac170542da35b24a7a7f427b7b0e0a.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20241106-1/4f17b76632a30f9b1642b6f055d13cc9.jpg",
+            "year": 2020
+        },
+        {
+            "modified": {
+                "time": "2024-11-06T12:25:20.000Z"
+            },
+            "_id": "22e915482d7829dd65af3d7a7aaaca82",
+            "name": "Ti\u1ebfng th\u00e9t trong khu r\u1eebng thi\u1ebfu v\u1eafng t\u00ecnh y\u00eau: V\u1ebft c\u1eaft s\u00e2u",
+            "slug": "tieng-thet-trong-khu-rung-thieu-vang-tinh-yeu-vet-cat-sau",
+            "origin_name": "The Forest of Love: Deep Cut",
+            "poster_url": "https://phimimg.com/upload/vod/20241106-1/28f78ab89b073a5eecf95498532d1d3e.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20241106-1/900dfe60f58325ed6048ba9bcc9bfee8.jpg",
+            "year": 2020
+        },
+        {
+            "modified": {
+                "time": "2024-11-06T12:25:04.000Z"
+            },
+            "_id": "eedda0a7cb52e7cd354600ccef0c799b",
+            "name": "M\u1ed9t ng\u01b0\u1eddi ph\u1ea3i ch\u1ebft",
+            "slug": "mot-nguoi-phai-chet",
+            "origin_name": "Someone Has to Die",
+            "poster_url": "https://phimimg.com/upload/vod/20241106-1/a8fa255c6b10e1545cb2fce2e93e2e6f.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20241106-1/8debc1d6dd3d8cb32379563d924671d1.jpg",
+            "year": 2020
+        },
+        {
+            "modified": {
+                "time": "2024-11-06T12:24:48.000Z"
+            },
+            "_id": "20e7f31e77cd39cde40e5843ddca6e8b",
+            "name": "Tu\u1ed5i tr\u1ebb c\u1ee7a th\u00e1ng N\u0103m",
+            "slug": "tuoi-tre-cua-thang-nam",
+            "origin_name": "Youth of May",
+            "poster_url": "https://phimimg.com/upload/vod/20241106-1/619dd1331e717124cb555e002621b627.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20241106-1/36697df315fec1e32d64ee1a8771b53f.jpg",
+            "year": 2021
+        },
+        {
+            "modified": {
+                "time": "2024-11-06T05:58:13.000Z"
+            },
+            "_id": "e6a2c4d36d6a52cadca1dfeca545afb0",
+            "name": "Gia \u0110\u00ecnh Sopranos (Ph\u1ea7n 6)",
+            "slug": "gia-dinh-sopranos-phan-6",
+            "origin_name": "The Sopranos (Season 6)",
+            "poster_url": "https://phimimg.com/upload/vod/20241105-1/083c91aeef890c49fc4652957ba5ca31.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20241105-1/2e684097f5df6eb82dfd1a5ebd714a2a.jpg",
+            "year": 2006
+        },
+        {
+            "modified": {
+                "time": "2024-11-06T05:57:28.000Z"
+            },
+            "_id": "dbe99818c3b2e453bc03e6fd610d2596",
+            "name": "Gia \u0110\u00ecnh Sopranos (Ph\u1ea7n 5)",
+            "slug": "gia-dinh-sopranos-phan-5",
+            "origin_name": "The Sopranos (Season 5)",
+            "poster_url": "https://phimimg.com/upload/vod/20241105-1/8367c667a58c9f38492747dcca933d84.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20241105-1/bbade4b974d56ad71d8f6c6bf728e62d.jpg",
+            "year": 2004
+        },
+        {
+            "modified": {
+                "time": "2024-11-06T05:56:48.000Z"
+            },
+            "_id": "502245f60c1fedd126195f9b70fff32a",
+            "name": "Gia \u0110\u00ecnh Sopranos (Ph\u1ea7n 4)",
+            "slug": "gia-dinh-sopranos-phan-4",
+            "origin_name": "The Sopranos (Season 4)",
+            "poster_url": "https://phimimg.com/upload/vod/20241105-1/b8f4ab65326712bdf808fc8493b139a2.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20241105-1/8950bb51812c88fbf4fc052e40a79058.jpg",
+            "year": 2002
+        },
+        {
+            "modified": {
+                "time": "2024-11-06T05:56:13.000Z"
+            },
+            "_id": "395db788289ee286662bbcabe78d99da",
+            "name": "Gia \u0110\u00ecnh Sopranos (Ph\u1ea7n 3)",
+            "slug": "gia-dinh-sopranos-phan-3",
+            "origin_name": "The Sopranos (Season 3)",
+            "poster_url": "https://phimimg.com/upload/vod/20240109-1/57ce4823ba74e22f79d1d406d0f7e88b.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20240109-1/633f901e59be17d7d819145ddf30f8d1.jpg",
+            "year": 2001
+        },
+        {
+            "modified": {
+                "time": "2024-11-06T05:56:01.000Z"
+            },
+            "_id": "4e7e7491b18261e361fda2a64bab613a",
+            "name": "Gia \u0110\u00ecnh Sopranos (Ph\u1ea7n 2)",
+            "slug": "gia-dinh-sopranos-phan-2",
+            "origin_name": "The Sopranos (Season 2)",
+            "poster_url": "https://phimimg.com/upload/vod/20241105-1/a4e1aeef446f7c9d5de8d36a76d3ec31.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20241105-1/3f643a5a1871d0306b4bb04c41b29d10.jpg",
+            "year": 2000
+        },
+        {
+            "modified": {
+                "time": "2024-11-06T05:54:57.000Z"
+            },
+            "_id": "4451968692a5e17185fb5b6894ea4f67",
+            "name": "Gia \u0110\u00ecnh Sopranos (Ph\u1ea7n 1)",
+            "slug": "gia-dinh-sopranos-phan-1",
+            "origin_name": "The Sopranos (Season 1)",
+            "poster_url": "https://phimimg.com/upload/vod/20241105-1/9d8e4d60c5473e852773f201fd617f0b.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20241105-1/506e6fcdf3457f399e467341bcc00c21.jpg",
+            "year": 1999
+        }
+    ],
+    "pagination": {
+        "totalItems": 20645,
+        "totalItemsPerPage": 10,
+        "currentPage": 131,
+        "totalPages": 2065
+    }
+}

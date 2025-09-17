@@ -1,0 +1,131 @@
+{
+    "status": true,
+    "items": [
+        {
+            "modified": {
+                "time": "2024-11-08T14:06:42.000Z"
+            },
+            "_id": "4cdd31af4e1036bd1d21858cbae5fbe5",
+            "name": "Cu\u1ed9c ch\u01a1i s\u00e2n nh\u00e0: Th\u1ec3 thao kh\u1eafp th\u1ebf gi\u1edbi",
+            "slug": "cuoc-choi-san-nha-the-thao-khap-the-gioi",
+            "origin_name": "Home Game",
+            "poster_url": "https://phimimg.com/upload/vod/20241108-1/6d8d6cbfee5aa4fef4657ad20c627396.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20241108-1/37b8a5c489525a9c39d4efaae696f168.jpg",
+            "year": 2020
+        },
+        {
+            "modified": {
+                "time": "2024-11-08T14:06:27.000Z"
+            },
+            "_id": "7f6411f044f4af764d78c7f31af15b2c",
+            "name": "Thanh Tra M\u1eabu M\u1ef1c",
+            "slug": "thanh-tra-mau-muc",
+            "origin_name": "The Good Detective",
+            "poster_url": "https://phimimg.com/upload/vod/20241108-1/582153830131e6ca74b50c5e780171aa.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20241108-1/654e82a7616584a008f0ca0da4112b7d.jpg",
+            "year": 2020
+        },
+        {
+            "modified": {
+                "time": "2024-11-08T14:06:13.000Z"
+            },
+            "_id": "eb4ccb5a339da7a1f01b8f9688896b65",
+            "name": "Hai M\u1eb9, Hai Con (Ph\u1ea7n 1)",
+            "slug": "hai-me-hai-con-phan-1",
+            "origin_name": "Daughter From Another Mother (Season 1)",
+            "poster_url": "https://phimimg.com/upload/vod/20241108-1/bcbb713d0a7cc8090a3bb2e82c9e3326.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20241108-1/3eaf337669d8244f6c88c7353cb7b85e.jpg",
+            "year": 2020
+        },
+        {
+            "modified": {
+                "time": "2024-11-08T14:05:57.000Z"
+            },
+            "_id": "45b9286d3c43405ceea31f47c09a2006",
+            "name": "\u0110\u1ea5ng Messiah",
+            "slug": "dang-messiah",
+            "origin_name": "Messiah",
+            "poster_url": "https://phimimg.com/upload/vod/20241108-1/b077752d642cefa96e02a98cef08c74b.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20241108-1/b95ccde7b9348bb7df426cf973e8e394.jpg",
+            "year": 2020
+        },
+        {
+            "modified": {
+                "time": "2024-11-08T14:05:42.000Z"
+            },
+            "_id": "69930733ad15478fdd5332faf5a3a662",
+            "name": "Nh\u1ecbp nh\u00e0ng",
+            "slug": "nhip-nhang",
+            "origin_name": "Move",
+            "poster_url": "https://phimimg.com/upload/vod/20241108-1/0be834aaec30a1c6fdcf026335fb7d1f.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20241108-1/1e1111b9320e7cb9187d23a569d41b04.jpg",
+            "year": 2020
+        },
+        {
+            "modified": {
+                "time": "2024-11-08T14:05:27.000Z"
+            },
+            "_id": "2bec3f7f8208e144c8fa1484d642eb47",
+            "name": "T\u00ecnh Y\u00eau V\u00e0 V\u00f4 Ch\u00ednh Ph\u1ee7 (Ph\u1ea7n 1)",
+            "slug": "tinh-yeu-va-vo-chinh-phu-phan-1",
+            "origin_name": "Love & Anarchy (Season 1)",
+            "poster_url": "https://phimimg.com/upload/vod/20241108-1/5143b32a574357ffb1e5f64b7203bf8c.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20241108-1/1859fda50f0a233173cfd76d33608fb4.jpg",
+            "year": 2020
+        },
+        {
+            "modified": {
+                "time": "2024-11-08T09:41:30.000Z"
+            },
+            "_id": "632e701d45bdd7eab08afe74d6bd1534",
+            "name": "Xuy\u00ean Kh\u00f4ng C\u1ea3i M\u1ec7nh Gia T\u1ed9c",
+            "slug": "xuyen-khong-cai-menh-gia-toc",
+            "origin_name": "Chinatown Cha Cha",
+            "poster_url": "https://phimimg.com/upload/vod/20240901-1/5e3f8bbd2c245f2154ae17f44e3a6725.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20240901-1/bf600e5d633c6448a11cc5e2e6360a91.jpg",
+            "year": 2024
+        },
+        {
+            "modified": {
+                "time": "2024-11-08T09:15:12.000Z"
+            },
+            "_id": "d23828354a4c3e1d7a9c30e02cde198b",
+            "name": "N\u1eef Minh Tinh",
+            "slug": "nu-minh-tinh",
+            "origin_name": "Born For The Spotlight",
+            "poster_url": "https://phimimg.com/upload/vod/20241108-1/edd69bc79659e6937900896460397c23.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20241108-1/83b00f7c7a2cbf9917c56ba81d94361b.jpg",
+            "year": 2024
+        },
+        {
+            "modified": {
+                "time": "2024-11-08T05:35:08.000Z"
+            },
+            "_id": "63aeb41b7837b24999c7766adda70a24",
+            "name": "V\u00ec M\u00ecnh Ch\u1eb3ng Mu\u1ed1n B\u1ecb \u0110au N\u00ean M\u00ecnh S\u1ebd N\u00e2ng T\u1ed1i \u0110a L\u1ef1c Ph\u00f2ng Ng\u1ef1 (M\u00f9a 2)",
+            "slug": "vi-minh-chang-muon-bi-dau-nen-minh-se-nang-toi-da-luc-phong-ngu-mua-2",
+            "origin_name": "BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense. (Season 2)",
+            "poster_url": "https://phimimg.com/upload/vod/20241108-1/6f864870c5e63d5d2266be41c51b251b.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20241108-1/f6145b139a6eadf0f2f6ec7f07ca3c92.jpg",
+            "year": 2023
+        },
+        {
+            "modified": {
+                "time": "2024-11-08T05:34:58.000Z"
+            },
+            "_id": "12f743edf866f7a7ff81368543dcd1a1",
+            "name": "V\u00ec M\u00ecnh Ch\u1eb3ng Mu\u1ed1n B\u1ecb \u0110au N\u00ean M\u00ecnh S\u1ebd N\u00e2ng T\u1ed1i \u0110a L\u1ef1c Ph\u00f2ng Ng\u1ef1 (M\u00f9a 1)",
+            "slug": "vi-minh-chang-muon-bi-dau-nen-minh-se-nang-toi-da-luc-phong-ngu-mua-1",
+            "origin_name": "BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense. (Season 1)",
+            "poster_url": "https://phimimg.com/upload/vod/20241108-1/4164780786bf32a19c7bff6ce9f8c179.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20241108-1/1e1515e59c4a5408e622420397a6bc5a.jpg",
+            "year": 2020
+        }
+    ],
+    "pagination": {
+        "totalItems": 20645,
+        "totalItemsPerPage": 10,
+        "currentPage": 125,
+        "totalPages": 2065
+    }
+}

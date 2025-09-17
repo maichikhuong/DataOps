@@ -9,11 +9,11 @@ import os
 import sys
 
 ## import kkphim data-pipeline
-sys.path.insert(0, 'phimville/data-pipelines/kkphim/py-files')
-sys.path.insert(0, 'phimville/data-pipelines/kkphim/common')
+sys.path.insert(0, 'DataOps/data-pipelines/kkphim/py-files')
+sys.path.insert(0, 'DataOps/data-pipelines/kkphim/common')
 from utils import PostgreUtils
-# from backfill_load_step_1 import main as kkphim_ft_backfill_step_1
-# from backfill_load_step_2 import main as kkphim_ft_backfill_step_2
+from backfill_load_step_1 import main as kkphim_ft_backfill_step_1
+from backfill_load_step_2 import main as kkphim_ft_backfill_step_2
 
 
 default_args = {

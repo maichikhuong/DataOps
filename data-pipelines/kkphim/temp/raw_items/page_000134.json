@@ -1,0 +1,131 @@
+{
+    "status": true,
+    "items": [
+        {
+            "modified": {
+                "time": "2024-11-05T15:16:00.000Z"
+            },
+            "_id": "46c85a6dfe472b343313ad79d138342c",
+            "name": "\u1ee8ng Vi\u00ean T\u1ed5ng Th\u1ed1ng Kamala Harris",
+            "slug": "ung-vien-tong-thong-kamala-harris",
+            "origin_name": "Kamala Harris: The Next President",
+            "poster_url": "https://phimimg.com/upload/vod/20241105-1/2f9e58b734b1625ce0b1cc1800ae90f0.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20241105-1/f404cf523f88901e6715797e661dd327.jpg",
+            "year": 2024
+        },
+        {
+            "modified": {
+                "time": "2024-11-05T15:15:53.000Z"
+            },
+            "_id": "02068138b6375882bf7435c610fca4c1",
+            "name": "T\u1ed5ng Th\u1ed1ng Ronald Reagan",
+            "slug": "tong-thong-ronald-reagan",
+            "origin_name": "The Presidents: Ronald Reagan",
+            "poster_url": "https://phimimg.com/upload/vod/20241105-1/3e75256e554186cb965b3f10635955c0.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20241105-1/3fdb75056fdde90b296283c1e01a7e25.jpg",
+            "year": 2024
+        },
+        {
+            "modified": {
+                "time": "2024-11-05T15:05:36.000Z"
+            },
+            "_id": "02d796bfb1ab131efd76050ff25865b6",
+            "name": "T\u1ed5ng Th\u1ed1ng Joe Biden",
+            "slug": "tong-thong-joe-biden",
+            "origin_name": "The Presidents: Joe Biden",
+            "poster_url": "https://phimimg.com/upload/vod/20241105-1/231a7fee97a4f8ab6e589691e395a419.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20241105-1/8f98f86247a70a20858a96052bbb26b9.jpg",
+            "year": 2024
+        },
+        {
+            "modified": {
+                "time": "2024-11-05T14:59:26.000Z"
+            },
+            "_id": "404b686cac11b6dc64ecb753029e5c1e",
+            "name": "T\u1ed5ng Th\u1ed1ng George W. Bush",
+            "slug": "tong-thong-george-w-bush",
+            "origin_name": "The Presidents: George W. Bush",
+            "poster_url": "https://phimimg.com/upload/vod/20241105-1/cd40ecb82a63dc1a9c9b7d5bbcc7dbc4.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20241105-1/d1a013467998adbce7f6926b24c7644d.jpg",
+            "year": 2024
+        },
+        {
+            "modified": {
+                "time": "2024-11-05T14:53:53.000Z"
+            },
+            "_id": "7de64628d6c08c86d7a1b4a1027b97b8",
+            "name": "T\u1ed5ng Th\u1ed1ng Barack Obama",
+            "slug": "tong-thong-barack-obama",
+            "origin_name": "The Presidents: Obama",
+            "poster_url": "https://phimimg.com/upload/vod/20241105-1/4e1b69b3f139c79fd1e2062c27c6ded0.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20241105-1/c2915c896740278158d228110b540897.jpg",
+            "year": 2024
+        },
+        {
+            "modified": {
+                "time": "2024-11-05T14:51:32.000Z"
+            },
+            "_id": "dfead17f4721422bc9e1eaf97556b4a0",
+            "name": "T\u1ed5ng Th\u1ed1ng Bill Clinton",
+            "slug": "tong-thong-bill-clinton",
+            "origin_name": "The Presidents: Bill Clinton",
+            "poster_url": "https://phimimg.com/upload/vod/20241105-1/6498054d70a309aa0c428520799a08ed.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20241105-1/6e81719067412376359d30bf51afb897.jpg",
+            "year": 2024
+        },
+        {
+            "modified": {
+                "time": "2024-11-05T14:50:52.000Z"
+            },
+            "_id": "4eed5c7364331eec1dff54ecd7811999",
+            "name": "T\u1ed5ng Th\u1ed1ng Donald Trump",
+            "slug": "tong-thong-donald-trump",
+            "origin_name": "The Presidents: Donald Trump",
+            "poster_url": "https://phimimg.com/upload/vod/20241105-1/056515b2c8fef6084539f46df9ac3a4e.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20241105-1/f7fdc8de5486917c6fff6e83ec0f360c.jpg",
+            "year": 2024
+        },
+        {
+            "modified": {
+                "time": "2024-11-05T00:34:15.000Z"
+            },
+            "_id": "aa1a0b81305f12fce0e4946825c8cc7e",
+            "name": "Tr\u00ed Tu\u1ec7 K\u00e9p",
+            "slug": "tri-tue-kep",
+            "origin_name": "Double iSmart",
+            "poster_url": "https://phimimg.com/upload/vod/20241104-1/2e859e1fe747694ca8a0a618f5f3c134.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20241104-1/3f3f9082b9408b1d16b638914dc45f08.jpg",
+            "year": 2024
+        },
+        {
+            "modified": {
+                "time": "2024-11-04T23:36:20.000Z"
+            },
+            "_id": "6d7c8fcb2f7a9e4126a6be9777c5ca49",
+            "name": "M\u1ea3nh T\u00ecnh S\u00e1t V\u00e1ch",
+            "slug": "manh-tinh-sat-vach",
+            "origin_name": "They Are Mine",
+            "poster_url": "https://phimimg.com/upload/vod/20241104-1/c04e7a4a59a728fcc1f280390d24f19e.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20241104-1/f600d08de3f9c6248c1fc2841c362500.jpg",
+            "year": 2023
+        },
+        {
+            "modified": {
+                "time": "2024-11-04T23:36:07.000Z"
+            },
+            "_id": "78e249f2f806ede8a4f3bd522f3035c2",
+            "name": "B\u1eaft B\u00fap B\u00ea",
+            "slug": "bat-bup-be",
+            "origin_name": "Successor",
+            "poster_url": "https://phimimg.com/upload/vod/20241104-1/620bc79ce3728d142c0812b907c46079.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20241104-1/cc463500c81505b20b32b25515d67fb1.jpg",
+            "year": 2024
+        }
+    ],
+    "pagination": {
+        "totalItems": 20645,
+        "totalItemsPerPage": 10,
+        "currentPage": 134,
+        "totalPages": 2065
+    }
+}
