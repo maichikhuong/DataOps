@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Admin/Documents/DataScience/DataOps/MLOps/modeling/real_state/mlflow/944774172628594434/d831dcf83826454d841d41bc0d401950/artifacts
+end_time: 1758308320468
+entry_point_name: ''
+experiment_id: '944774172628594434'
+lifecycle_stage: active
+run_id: d831dcf83826454d841d41bc0d401950
+run_name: real_state_model
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758308148184
+status: 3
+tags: []
+user_id: Admin

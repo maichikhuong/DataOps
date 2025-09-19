@@ -1,7 +1,7 @@
 import streamlit as st 
 import requests
 
-API_URL = 'http://192.168.1.6:8000/predict'
+API_URL = 'https://khuong-fastapi-app-demo-latest.onrender.com/predict'
 
 st.title("Insurance Premium Category Predictor")
 st.markdown("Enter your details below:")
