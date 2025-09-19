@@ -1,0 +1,64 @@
+artifact_path: file:///C:/Users/Admin/Documents/DataScience/DataOps/MLOps/modeling/stock_model/mlflow/446092070879665876/models/m-72bbfc04bc7b4dbf8ede2c2a526d83a5/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.9
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.1
+is_signature_from_type_hint: false
+mlflow_version: 3.3.2
+model_id: m-72bbfc04bc7b4dbf8ede2c2a526d83a5
+model_size_bytes: 1692615
+model_uuid: m-72bbfc04bc7b4dbf8ede2c2a526d83a5
+prompts: null
+run_id: f94e47bc97ec4275b31c034cd8e6d079
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  serving_input_path: serving_input_example.json
+  type: dataframe
+signature:
+  inputs: '[{"type": "double", "name": "Pre_Open_5_mean", "required": true}, {"type":
+    "double", "name": "Pre_Open_5_std", "required": true}, {"type": "double", "name":
+    "Pre_High_5_mean", "required": true}, {"type": "double", "name": "Pre_High_5_std",
+    "required": true}, {"type": "double", "name": "Pre_Low_5_mean", "required": true},
+    {"type": "double", "name": "Pre_Low_5_std", "required": true}, {"type": "double",
+    "name": "Pre_Close_5_mean", "required": true}, {"type": "double", "name": "Pre_Close_5_std",
+    "required": true}, {"type": "double", "name": "Pre_Volume_5_mean", "required":
+    true}, {"type": "double", "name": "Pre_Volume_5_std", "required": true}, {"type":
+    "double", "name": "Pre_Open_10_mean", "required": true}, {"type": "double", "name":
+    "Pre_Open_10_std", "required": true}, {"type": "double", "name": "Pre_High_10_mean",
+    "required": true}, {"type": "double", "name": "Pre_High_10_std", "required": true},
+    {"type": "double", "name": "Pre_Low_10_mean", "required": true}, {"type": "double",
+    "name": "Pre_Low_10_std", "required": true}, {"type": "double", "name": "Pre_Close_10_mean",
+    "required": true}, {"type": "double", "name": "Pre_Close_10_std", "required":
+    true}, {"type": "double", "name": "Pre_Volume_10_mean", "required": true}, {"type":
+    "double", "name": "Pre_Volume_10_std", "required": true}, {"type": "double", "name":
+    "Pre_Open_20_mean", "required": true}, {"type": "double", "name": "Pre_Open_20_std",
+    "required": true}, {"type": "double", "name": "Pre_High_20_mean", "required":
+    true}, {"type": "double", "name": "Pre_High_20_std", "required": true}, {"type":
+    "double", "name": "Pre_Low_20_mean", "required": true}, {"type": "double", "name":
+    "Pre_Low_20_std", "required": true}, {"type": "double", "name": "Pre_Close_20_mean",
+    "required": true}, {"type": "double", "name": "Pre_Close_20_std", "required":
+    true}, {"type": "double", "name": "Pre_Volume_20_mean", "required": true}, {"type":
+    "double", "name": "Pre_Volume_20_std", "required": true}, {"type": "double", "name":
+    "Pre_Open_30_mean", "required": true}, {"type": "double", "name": "Pre_Open_30_std",
+    "required": true}, {"type": "double", "name": "Pre_High_30_mean", "required":
+    true}, {"type": "double", "name": "Pre_High_30_std", "required": true}, {"type":
+    "double", "name": "Pre_Low_30_mean", "required": true}, {"type": "double", "name":
+    "Pre_Low_30_std", "required": true}, {"type": "double", "name": "Pre_Close_30_mean",
+    "required": true}, {"type": "double", "name": "Pre_Close_30_std", "required":
+    true}, {"type": "double", "name": "Pre_Volume_30_mean", "required": true}, {"type":
+    "double", "name": "Pre_Volume_30_std", "required": true}]'
+  outputs: '[{"type": "float", "required": true}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-09-19 17:10:22.063193'

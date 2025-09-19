@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/Admin/Documents/DataScience/DataOps/MLOps/modeling/real_state/mlflow/944774172628594434/models/m-fae1c55fa0d041a38a9696e6e08b0451/artifacts
+creation_timestamp: 1758308170158
+experiment_id: '944774172628594434'
+last_updated_timestamp: 1758308173971
+model_id: m-fae1c55fa0d041a38a9696e6e08b0451
+model_type: null
+name: model
+source_run_id: d831dcf83826454d841d41bc0d401950
+status: 2
+status_message: null
